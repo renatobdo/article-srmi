@@ -6,20 +6,16 @@ import seaborn as sns
 data = {
     "Strategies": [
         "use of ontologies", "common metadata schema", "Rule-Based",
-        "Metadata-driven framework", "Linked Data resources",
-        "AI-based approaches", "Controlled vocabularies", "Annotations",
-        "Schema matching", "String similarity", "Cardinality comparison",
-        "Synonym detection", "Crowdsourcing", "Type alignment",
-        "Domain and range constraints", "Parent-child relationships",
-        "Path-based similarity", "Unit normalization",
-        "Graph-oriented Models", "Data value comparison"
+        "MDLSP", "Schema matching approaches",
+        "Linked Data resources", "Controlled vocabularies", "AI-based approaches",
+        "Annotations", "Graph-oriented Models"
     ],
-    "ISL": [4, 2, 4, 3, 4, 3, 1, 0, 0, 1, 2, 0, 1, 0, 1, 0, 0, 0, 1, 0],
-    "SCIoT": [3, 3, 4, 4, 3, 3, 2, 2, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0],
-    "GE": [6, 4, 2, 4, 1, 2, 3, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0],
-    "CDH": [7, 7, 6, 4, 3, 7, 4, 3, 3, 3, 2, 3, 3, 2, 1, 2, 2, 0, 0, 0],
-    "DS": [9, 1, 5, 4, 5, 1, 1, 1, 2, 1, 0, 1, 0, 1, 0, 2, 0, 2, 1, 1],
-    "HM": [14, 11, 3, 3, 3, 2, 6, 6, 3, 3, 2, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+    "ISL": [4, 2, 4, 3, 3, 4, 1, 3, 1, 1],
+    "SCIoT": [3, 3, 4, 6, 2, 4, 2, 3, 2, 1],
+    "GE": [6, 4, 2, 4, 2, 1, 3, 2, 1, 0],
+    "CDH": [7, 7, 7, 6, 4, 3, 6, 6, 3, 1],
+    "DS": [8, 3, 6, 4, 4, 5, 2, 1, 1, 0],
+    "HM": [14, 11, 5, 5, 5, 3, 5, 2, 5, 0]
 }
 
 # Criar DataFrame
