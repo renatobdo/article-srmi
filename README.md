@@ -25,7 +25,8 @@ G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\
 <img width="1054" height="575" alt="parsifal1" src="https://github.com/user-attachments/assets/b31e22c7-e835-4d7c-81ee-8321f2aca0a2" />
 
 
-<img width="1153" height="536" alt="parsifal2" src="https://github.com/user-attachments/assets/c95777ee-d899-46fa-885e-65643a6c3a9b" />
+<img width="1153" height="462" alt="parsifal2" src="https://github.com/user-attachments/assets/8ab18840-8d04-48a4-a49f-9aa9564f67fb" />
+
 
 
 <img width="932" height="582" alt="parsifal3" src="https://github.com/user-attachments/assets/d7d61ce2-3df2-489a-8b7b-f7f8915635cf" />
