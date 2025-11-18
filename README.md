@@ -12,6 +12,7 @@ Parsifal
 https://parsif.al/
 
 **Software utilized for Strategies, Methods and Tecnhiques by domain**:
+The data are utilized is FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt
 
 https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing 
 
