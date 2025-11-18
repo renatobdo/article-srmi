@@ -22,9 +22,11 @@ G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\
 
 # Quality assessment rules (collected from parsifal software for systematic review)
 
-<img width="1183" height="606" alt="parsifal1" src="https://github.com/user-attachments/assets/ed35e78b-a053-49f7-93aa-710e2032d7ad" />
+<img width="1054" height="575" alt="parsifal1" src="https://github.com/user-attachments/assets/b31e22c7-e835-4d7c-81ee-8321f2aca0a2" />
+
 
 <img width="1153" height="536" alt="parsifal2" src="https://github.com/user-attachments/assets/c95777ee-d899-46fa-885e-65643a6c3a9b" />
+
 
 <img width="932" height="582" alt="parsifal3" src="https://github.com/user-attachments/assets/d7d61ce2-3df2-489a-8b7b-f7f8915635cf" />
 
