@@ -20,6 +20,8 @@ G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\
 
 # Quality assessment rules (collected from parsifal software for systematic review)
 
+You can find out more here: https://youtu.be/FJnIGx8MAgQ?si=iyxnJNykKtZxvlfl 
+
 
 **All the filtered articles are in a file called all-articles-filteres.csv**
 
