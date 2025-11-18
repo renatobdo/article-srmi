@@ -23,17 +23,20 @@ G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\
 # Quality assessment rules (collected from parsifal software for systematic review)
 
 
-Print 1: Quality assessment checklist: questions
+## All the filtered articles are in a file called all-articles-filteres.csv
+
+
+## Print 1: Quality assessment checklist: questions
 
 <img width="1054" height="575" alt="parsifal1" src="https://github.com/user-attachments/assets/b31e22c7-e835-4d7c-81ee-8321f2aca0a2" />
 
 
-Print 2: Quality assessment checklist: possible answers and scores
+## Print 2: Quality assessment checklist: possible answers and scores
 
 <img width="1153" height="462" alt="parsifal2" src="https://github.com/user-attachments/assets/8ab18840-8d04-48a4-a49f-9aa9564f67fb" />
 
 
-Print 3: Conducting: quality assessment
+## Print 3: Conducting: quality assessment
 
 <img width="932" height="582" alt="parsifal3" src="https://github.com/user-attachments/assets/d7d61ce2-3df2-489a-8b7b-f7f8915635cf" />
 
