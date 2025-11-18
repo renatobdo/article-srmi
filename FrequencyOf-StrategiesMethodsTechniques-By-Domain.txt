@@ -1,0 +1,145 @@
+						ISL;	SCIoT;	GE;	CDH;	DS;	HM;
+use of ontologies;				4;	3;	6;	7;	8;	14;
+common metadata schema;				2;	3;	4;	7;	3;	11;
+Rule-Based; 					4;	4;	2;	7;	6;	5;
+MDLSP;						3;	6;	4;	6;	4;	5;
+Schema matching approaches;			3;	2;	2;	4;	4;	5;
+Linked Data resources;				4;	4;	1;	3;	5;	3;
+Controlled vocabularies; 			1;	2;	3;	6;	2;	5;
+AI-based approaches;				3;	3;	2;	6;	1;	2;
+Annotations;					1;	2;	1;	3;	1;	5;
+Graph-oriented Models; 				1;	1;	0;	1;	0;	0;
+
+
+==================================================
+ISL:  
+
+Use of ontologies: Guo2017, Novytskyi2025, Patrcio2025, Thalhath2025
+
+Common Metadata schema: Chen2015, Novytskyi2025
+
+Rule-Based: Chen2015, Patrcio2025, Thalhath2025, Li2025
+
+Metadata-driven language, standards and processes (MDLSP): Thalhath2025, Stiller2014, Verstockt2018
+
+Schema matching approaches: Chen2015, McCrae2015, Thalhath2025
+
+Linked Data resources: Novytskyi2025, McCrae2015, Thalhath2025, DeSantis2025
+
+Controlled vocabularies: McCrae2015
+
+AI-based approaches: McCrae2015, DeSantis2025, Verstockt2018
+
+Annotations: Verstockt2018
+
+Graph-oriented Models: Bunakov2019
+
+======================================================
+SCIoT:
+
+Use of ontologies: Zeginis2024, An2020, Singh2022
+
+Common Metadata schema: Zeginis2024, Koh2018, Ma2017
+
+Rule-Based: Zeginis2024, Koh2018, Singh2022, Ma2017
+
+Metadata-driven framework: Alvarez2022, Zeginis2024, An2020, Koh2018, Lafia2018, Ma2017
+
+Schema matching approaches: Zeginis2024, Ma2017
+
+Linked Data resources: Alvarez2022, Zeginis2024, An2020, Singh2022
+
+Controlled vocabularies: Zeginis2024, Lafia2018
+
+AI-based approaches: Zeginis2024, Lafia2018, Ma2017
+
+Annotations: An2020, Lafia2018
+
+Graph-oriented Models: Ma2017
+====================================
+GE:
+
+Use of ontologies: Boldrini2024, Masmoudi2019, Ziaimatin2020, Pussi2025, Cavallo2019, Cheung2015
+
+Common Metadata schema: Boldrini2024, Ziaimatin2020, Pussi2025, Horsburgh2014
+
+Rule-Based: Masmoudi2019, Cheung2015
+
+Metadata-driven framework: Bailo2023, Boldrini2024, Cavallo2019, Cheung2015
+
+Schema matching approaches: Giuliacci2025, Cheung2015
+
+Linked Data resources: Hu2015
+
+Controlled vocabularies: Giuliacci2025, Horsburgh2014, Wang2016
+
+AI-based approaches: Cheung2015, Hu2015
+
+Annotations: Cavallo2019
+========================================
+CDH:
+
+Use of ontologies: Candela2019, Kim22015, Lisena2017, Ranjgar2024, Buranarach2022, Seifert2017, Chortaras2018
+
+Common Metadata schema: Kim22015, Lisena2017, Orgel2015, Buranarach2022, Mannocci2014, Seifert2017, Chortaras2018
+
+Rule-Based: Candela2019, Kim22015, Lisena2017, Orgel2015, Ranjgar2024, Buranarach2022, Mannocci2014
+
+Metadata-driven framework: Candela2019, Lisena2017, Buranarach2022, Mannocci2014, Seifert2017, Sivakumar2014
+
+Schema matching approaches: Kim22015, Orgel2015, Buranarach2022, Mannocci2014
+
+Linked Data resources: Candela2019, Seifert2017, Kaldeli2024
+
+Controlled vocabularies: Gil2023, Kim22015, Lisena2017, Ranjgar2024, Buranarach2022, Mannocci2014
+
+AI-based approaches: Candela2019, Ranjgar2024, Seifert2017, Chortaras2018, Kaldeli2024, Kaldeli2021
+
+Annotations: Chortaras2018, Kaldeli2024, Kaldeli2021
+
+Graph-oriented Models: Lisena2017
+================================================
+DS:
+
+Use of ontologies: Alserafi2016, Cverdelj-Fogarai2017, Debruyne2015, Do2015a, Vysotska2024, Do2015, IrhamFebrieka2025, Sawarkar2021
+
+Common Metadata schema: Demraoui2016, Hu2024, Do2015a
+
+Rule-Based: Cverdelj-Fogarai2017, Do2015a, Do2015, Joonas2025, Sawarkar2021, Qu2014
+
+Metadata-driven framework: Alserafi2016, Do2015a, Vysotska2024, Prabhune2018
+
+Schema matching approaches: Alserafi2016, Do2015a, IrhamFebrieka2025, Joonas2025
+
+Linked Data resources: Debruyne2015, Do2015a, Idrissou2017, Do2015, Khalid2018
+
+Controlled vocabularies: Joonas2025, Sawarkar2021
+
+AI-based approaches: Sawarkar2021
+
+Annotations: Sawarkar2021
+
+Graph-oriented Models: 
+
+================================================
+HM:
+
+Use of ontologies: Ashish2016, Rashid2020, Bachir2025, Griffiths2017, He2018, Kobayashi2018, Tian2025, Nicholson2020, Dugas2016, Sasse2022, Naji2022, 
+Anguita2015, Peng2024, Hu2014
+
+Common Metadata schema: Ashish2016, Hegselmann2021, Kandogan2015, Leroux2017, Rashid2020, Sangkla2017, Simon2024, Gyrard2025, Kobayashi2018, 
+Nicholson2020, Naji2022
+
+Rule-Based: Kirsten2017, Rashid2020, Kobayashi2018, Naji2022, Peng2024
+
+Metadata-driven framework: Kandogan2015, Wang2014, Bachir2025, Gyrard2025, Kobayashi2018
+
+Schema matching approaches: Ashish2016, Kirsten2017, Iancu2024, Anguita2015, Hu2014
+
+Linked Data resources: Kobayashi2018, Nicholson2020, Hu2014
+
+Controlled vocabularies: Kirsten2017, Rashid2020, Kobayashi2018, Sasse2022, Anguita2015
+
+AI-based approaches: Ashish2016, Cannizzaro2021
+
+Annotations: Kirsten2017, Rashid2020, Dugas2016, Sasse2022, Ulrich2022
