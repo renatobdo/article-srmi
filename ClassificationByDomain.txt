@@ -1,0 +1,7 @@
+Context;	Keywords|;
+Smart cities and IoT;	['Smart Cities', 'IoT', 'Sensor', 'Network', 'Internet of Things'] |;
+Information Science and Libraries; ['Library', 'Digital Libraries', 'Information Retrieval', 'Archives'] |;
+Data Science;	['Data Lakes', 'Big Data', 'Machine Learning', 'AI', 'Analytics'] |;
+Cultural and digital Heritage; ['Cultural', 'Culture', 'Heritage', 'Museums', 'Digital Humanities'] |;
+GeoScience and Environment;	['Geospatial', 'Environmental', 'GIS', 'Climate', 'Earth', 'Hydrology'] |;
+Health and medicine;	['Medical', 'Healthcare', 'Clinical', 'Biomedical', 'Health', 'EHR', 'FHIR'] |;
