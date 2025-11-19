@@ -16,8 +16,9 @@ The data utilized was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and
 
 https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing 
 
-<!-- # analytics
-G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\TUDO_JUNTO\Domain\analises -->
+# analytics
+
+The datafile ClassificationByDomain.txt can be used to match keywords with articles_bytitle_and_abstract_and_Keywords_separatedbypipes.txt and categorize domain context. 
 
 # Quality assessment rules (collected from parsifal software for systematic review)
 
