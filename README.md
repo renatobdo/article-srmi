@@ -11,14 +11,12 @@ Data from article metadata integration a systematic review  (SRMI)
 Parsifal
 https://parsif.al/
 
-**Software utilized for Strategies, Methods and Tecnhiques by domain**:
-The data utilized was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and 
-
-https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing 
-
 # Analytics
 
-The datafile ClassificationByDomain.txt can be used to match keywords with articles_bytitle_and_abstract_and_Keywords_separatedbypipes.txt and categorize domain context. 
+The datafile ClassificationByDomain.txt can be used to match keywords with articles_bytitle_and_abstract_and_Keywords_separatedbypipes.txt and categorize domain context.  
+
+The datafile utilized for Strategies, Methods and Tecnhiques by domain was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and the code is SMT-by-domain.py and can be executed here: [SMT-by-domain.py](https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing )
+
 
 # Quality assessment rules 
 
