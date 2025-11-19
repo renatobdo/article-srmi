@@ -27,7 +27,7 @@ Collected from parsifal software for systematic review.
 You can find out more here: https://youtu.be/FJnIGx8MAgQ?si=iyxnJNykKtZxvlfl 
 
 
-**All the filtered articles are in a file called all-articles-filteres.csv**
+**All the filtered articles from the 6 databases are in a file called all-articles-filteres.csv**
 
 
 **Print 1: Quality assessment checklist: questions**
