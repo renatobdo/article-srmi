@@ -16,8 +16,8 @@ The data utilized was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and
 
 https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing 
 
-# analytics
-G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\TUDO_JUNTO\Domain\analises 
+<!-- # analytics
+G:\Meu Drive\Doutorado\Artigos\artigos-integracaoDeMetadados-RevisaoSistematica\TUDO_JUNTO\Domain\analises -->
 
 # Quality assessment rules (collected from parsifal software for systematic review)
 
