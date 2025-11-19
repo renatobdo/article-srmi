@@ -1,4 +1,4 @@
-Title | Abstract |;
+Title | Abstract | keywords |;
 A Framework for the Evaluation of Automatic Metadata Enrichments |
 	"Automatic enrichment of collections connects data to vocabularies, which
   supports the contextualization of content and adds searchable text to
@@ -9,7 +9,8 @@ A Framework for the Evaluation of Automatic Metadata Enrichments |
   to the evaluation of automatic enrichments in the digital library
   Europeana. The analysis of 100 result sets and their corresponding
   queries (1,121 documents total) shows the framework is a valuable tool
-  for guiding enrichments and determining the value of enrichment efforts."|;
+  for guiding enrichments and determining the value of enrichment efforts."| Evaluation, Europeana, Digital Libraries, Cultural Collections,
+Framework, Semantic Enrichment. |; 
 
 
 A Novel Data Integration Framework Based on Unified Concept Model |	"Nowadays, data is being generated, collected, and analyzed at an unprecedented scale,
@@ -21,7 +22,8 @@ sources is integrated in a UCM. UCM has the benefits of being easy to update. It
 By following the structure of UCM, data from different sources is automatically transformed into instance data and linked together by using semantic similarity
  computation metrics, finally the data is stored in graph database. Experiments are carried out based on heterogeneous data from refueling records, social
  networks of astroturfers, and vehicle trajectories. Experimental results and reference implementation demonstrations show good precision and recall of the
- proposed framework."|;
+ proposed framework." |Data Integration, Schema Mapping, Graph
+Model, Semantic Similarity Computation|;
 
 A RDF-based approach to metadata crosswalk for semantic interoperability at the data element level | "Purpose – The purpose of this paper is to propose a
  Resource Description Framework (RDF)-based approach to transform metadata crosswalking from equivalent lexical element mapping into semantic mapping with
@@ -40,7 +42,7 @@ constraints and cardinality of metadata data elements will be required to make r
 Originality/value – In addition to reviving contextual relationships embedded between described objects and their metadata elements, nine types
  of mapping rules were developed to achieve a semantic metadata crosswalk which will facilitate the design of related mapping software. Furthermore,
  the proposed approach complements existing crosswalking documents provided by authoritative organizations, and enriches mapping language developed by
- the CIDOC community. © Emerald Group Publishing Limited." |;
+ the CIDOC community. © Emerald Group Publishing Limited."|Digital libraries, Digital archives, RDF, Metadata, Crosswalk, Semantic interoperability |;
 
 A linked open data framework to enhance the discoverability and impactof culture heritage |
 	"Cultural heritage institutions have recently begun to consider the
@@ -60,7 +62,7 @@ A linked open data framework to enhance the discoverability and impactof culture
   from the Biblioteca Virtual Miguel de Cervantes, thus illustrating how
   semantic enrichment can help information retrieval. The methods applied
   in order to automate the enrichment process, which build upon open
-  source software components, are described herein."|;
+  source software components, are described herein."|Bibliographic data; cultural heritage; interoperability; linked open data; metadata enrichment; ontology; semantic web|;
 
 A metadata model and mapping approach for facilitating access to heterogeneous cultural heritage assets|
 "In the last decade, Europe has put a tremendous effort into making cultural, educational and scientific resources publicly available. 
@@ -73,7 +75,8 @@ encyclopaedias. The vision of the EEXCESS project is to push high-quality conten
 for mapping between the data sources’ specific data models and this common representation. In this paper, we propose a data model for such a system 
 that combines federated search results from different cultural heritage data sources. We then propose an approach for metadata mapping, with a focus
  on easy configurability of mappings, which—once properly configured—can then be executed on the fly by an automatic service. We demonstrate the 
-approach using a real-world example. © 2015, Springer-Verlag Berlin Heidelberg." |;
+approach using a real-world example. © 2015, Springer-Verlag Berlin Heidelberg."|Metadata mapping , Metadata enrichment ,
+Metadata crosswalk , Ontology |;
 
 
 
@@ -101,7 +104,7 @@ A semantic meta-model for data integration and exploitation in precisionagricult
   meta-model that is based on W3C standards (DCAT, PROV-O and QB
   vocabulary) in order to enable the definition of metadata that
   facilitate the discovery, exploration, integration and accessing of data
-  in the domain." |;
+  in the domain." |Semantic model, metadata, data integration, precision agriculture, precision livestock farming, DCAT |;
 
 A viewpoint based extension of the common warehouse metamodel to support the user's viewpoint approach |
 "Metadata integration and interoperability is still one of the leading problems facing the datawarehouse and the business analysis community. 
@@ -111,19 +114,12 @@ and know-how, each user exploits the process based on his preferences, needs and
 model and to keep trace of users' experiences during the exploitation of the whole decisional process. In this paper, we extend the CWM in 
 order to support its different users with a new entity that is viewpoints, which models and keeps trace of user preferences, objectives, and
  decisions made during the datawarehouse process. Our main objective is the capitalisation of users' experiences to enhance reusability of 
-metadata and coordination between users. © Copyright 2016 Inderscience Enterprises Ltd."|;
+metadata and coordination between users. © Copyright 2016 Inderscience Enterprises Ltd."|
+CWM; metadata; datawarehouse; reusability; viewpoint; metadata integration; metamodel;
+extension; user’s preferences; decisional process|;
 
 
 
-
-
-
-An incremental semantic integration method of scientific data based on ontologies |
-"Data integration can be accomplished by using a common model with the global or local conversion of different repositories to this common 
-model (Global as view and Local as view). Semantic integration, however, requires the use of ontologies. We propose a method for semantically
- integrating scientific data using metadata standards annotated by ontologies. The contribution comes from the fact that the proposed method 
-is inspired by agile principles. Its use allows the incremental evolution of the ontology and an agile evaluation of the integration results.
- Copyright © 2019 for this paper by its authors."|;
 
 Automated Integration of Genomic Metadata with Sequence-to-SequenceModels |
 	"While exponential growth in public genomic data can afford great
@@ -149,7 +145,9 @@ Automated Integration of Genomic Metadata with Sequence-to-SequenceModels |
   unmentioned attributes. The models were evaluated in both homogeneous
   and heterogenous training/testing environments, indicating the efficacy
   of the transformer-based seq2seq approach for real data integration
-  applications." |;
+  applications." |Genomics , High-throughput sequencing , Metadata
+integration , Deep Learning , Translation models , Natural language
+processing|;
 
 Automated Metadata Harmonization Using Entity Resolution and ContextualEmbedding |
 	"Data curation process for Analytics and Data Science typically involves
@@ -168,7 +166,8 @@ Automated Metadata Harmonization Using Entity Resolution and ContextualEmbedding
   While prior competing approaches address manual metadata harmonization
   problem by proposing usage of semantic middleware, data dictionaries and
   matching rules this approach recommends novel usage of Machine Learning
-  which improves efficacy of overall lifecycle." |;
+  which improves efficacy of overall lifecycle."|Metadata harmonization , Metadata crosswalking , Data
+curation , Metadata contextual embedding |;
 
 Blue-cloud DAB: developing a platform to harmonize, assess and disseminate marine metadata collections |
 "The integration and harmonization of marine data from diverse sources are vital for advancing global oceanographic research and ensuring
@@ -183,7 +182,7 @@ highlighting the adoption of an extensible brokering architecture that harmonize
 importance of metadata analysis in ensuring effective searches for end users, highlighting challenges in aggregating diverse sources, where data
  providers may have structured the content with different objectives compared to those of the system of systems. End users will gain insights
  into the current metadata content of Blue-cloud, enabling them to search and access data from multiple BDIs with an understanding of the
- technical complexities behind the scenes. © The Author(s) 2024." |;
+ technical complexities behind the scenes. © The Author(s) 2024." |Brokering approach , Marine data , Metadata analysis , System of systems , Digital ecosystems|;
 
 CAMO: Integration of Linked Open Data for Multimedia Metadata Enrichment | 
 "Metadata is a vital factor for effective management, organization and
@@ -194,7 +193,7 @@ CAMO: Integration of Linked Open Data for Multimedia Metadata Enrichment |
   ontology matching and instance linkage techniques. A mobile app for
   Android devices is built on top of the LOD to improve multimedia content
   browsing. An empirical evaluation is conducted to demonstrate the
-  effectiveness and accuracy of the system in the multimedia domain." |;
+  effectiveness and accuracy of the system in the multimedia domain."|Linked Data, multimedia, semantic data integration |;
 
 Combining Automatic Annotation with Human Validation for the Semantic Enrichment of Cultural Heritage Metadata |
 "The addition of controlled terms from linked open datasets and vocabularies to metadata can increase the discoverability and accessibility
@@ -207,7 +206,8 @@ Depending on the data characteristics and the objective of the enrichment, diffe
  have been applied and evaluated on a set of datasets on crafts heritage, leading to the publication of more than 133K enriched records to the
  Europeana platform. A statistical analysis of the achieved results is performed, which allows us to draw some interesting insights as to the
  appropriateness of annotation approaches in different contexts. The process also led to the creation of an openly available annotated dataset,
- which can be useful for the in-domain adaptation of ML-based enrichment tools. © 2024 Copyright for this paper by its authors." |;
+ which can be useful for the in-domain adaptation of ML-based enrichment tools. © 2024 Copyright for this paper by its authors."|
+ semantic enrichment, cultural heritage metadata, named entity recognition and disambiguation |;
 
 
 Context Is Everything: Harmonization of Critical Food MicrobiologyDescriptors and Metadata for Improved Food Safety and Surveillance |
@@ -239,7 +239,8 @@ Context Is Everything: Harmonization of Critical Food MicrobiologyDescriptors an
   consortium of researchers and stakeholders worldwide. Since foodborne
   diseases do not respect international borders, uptake of such
   vocabularies will be crucial for multi-jurisdictional interpretation of
-  WGS results and data sharing." |;
+  WGS results and data sharing."| genomic epidemiology, foodborne pathogen surveillance, outbreak investigations, ontology,
+contextual metadata|;
 
 Crowd Sourced Semantic Enrichment (CroSSE) for knowledge driven querying of digital resources |
 "Today, most information sources provide factual, objective knowledge,
@@ -258,7 +259,7 @@ be used to enrich the available factual data and contribute to their
  enrichment modules to coexist. CroSSE provides a novel Semantically
  Enriched SQL (SESQL) language to enrich SQL queries with information
  from a knowledge base containing semantic annotations. We describe
- CroSSE and SESQL with examples taken from our SmartGround EU project." |;
+ CroSSE and SESQL with examples taken from our SmartGround EU project."|Semantic enrichment , Crowd-sourcing , Data integration framework |;
 
 Crowdheritage: Crowdsourcing for improving the quality of cultural heritage metadata|
 "The lack of granular and rich descriptive metadata highly affects the discoverability and usability of cultural heritage collections aggregated
@@ -269,7 +270,9 @@ through automated analysis and feature extraction along with crowdsourcing annot
  workflow for the improvement of cultural heritage metadata by employing crowdsourcing and by combining machine and human intelligence to serve the
  particular requirements of the cultural heritage domain. The proposed solution repurposes, extends, and combines in an innovative way general-purpose
  state-of-the-art AI tools, semantic technologies, and aggregation mechanisms with a novel crowdsourcing platform, so as to support seamless enrichment
- workflows for improving the quality of CH metadata in a scalable, cost-effective, and amusing way. © 2021 by the authors. Licensee MDPI, Basel, Switzerland." |;
+ workflows for improving the quality of CH metadata in a scalable, cost-effective, and amusing way. © 2021 by the authors. Licensee MDPI, Basel, Switzerland."|
+ crowdsourcing, automatic enrichment, user validation,
+annotations model |;
 
 Cultural Heritage Information Retrieval: Past, Present, and Future Trends |	
 "The importance of knowledge organization and information retrieval techniques has been evident throughout human history, becoming even more 
@@ -286,21 +289,30 @@ crucial in the digital age. While computer systems and the web have facilitated 
  possible future research directions are discussed. The findings revealed that GLAMs (Galleries, Libraries, Archives, and Museums) are excellent and
  comprehensive sources of CH information. The CH community has put in a lot of time and effort to develop data models and knowledge organization tools;
  now it's time to use this valuable resource to construct smart applications that are still in their early phases. This could benefit the CH industry
- even more. © 2013 IEEE. |;
+ even more. © 2013 IEEE. |Cultural heritage, data modeling, semantic web, information retrieval, ontology, knowledge
+organization systems.|;
 
 Data Information Interoperability Model for IoT-enabled Smart Water Networks |
 "Syntactic and semantic interoperability is a fundamental requirement for the success of the Internet of Things (IoT)-enabled Smart Water Networks (SWNs).
  Still, whilst consuming publicly accessible IoT data, the syntactic and semantic representation of the collected data poses challenges for the success
- of pervasive and ubiquitous sensing in the water domain. Challenges include the heterogeneity of data representation formats, semantic models, and the adoption of domain-specific standards and ontologies. These challenges emphasise the requirement for enhanced interoperability in SWNs. To address this, we propose a Data and Information Interoperability Model (DIIM) by combining the Semantic Web technologies, widely known for overcoming interoperability issues, and Model-driven architecture (MDA) approach. DIIM facilitates syntactic inter-operability by serialization conversion and adoption of domain-specific standards as well as semantic interoperability of metadata by aligning the semantic models of IoT and Smart Water Network (SWN) applications. Furthermore, it automatically creates an ontology as a semantic model if it is missing and adds references to existing domain-specific ontologies as annotation in their models. We evaluate DIIM methodology by applying it to a real-world use case of IoT-enabled applications for water quality monitoring." |;
+ of pervasive and ubiquitous sensing in the water domain. Challenges include the heterogeneity of data representation formats, semantic models, and the adoption of domain-specific standards and ontologies. These challenges emphasise the requirement for enhanced interoperability in SWNs. To address this, we propose a Data and Information Interoperability Model (DIIM) by combining the Semantic Web technologies, widely known for overcoming interoperability issues, and Model-driven architecture (MDA) approach. DIIM facilitates syntactic inter-operability by serialization conversion and adoption of domain-specific standards as well as semantic interoperability of metadata by aligning the semantic models of IoT and Smart Water Network (SWN) applications. Furthermore, it automatically creates an ontology as a semantic model if it is missing and adds references to existing domain-specific ontologies as annotation in their models. We evaluate DIIM methodology by applying it to a real-world use case of IoT-enabled applications for water quality monitoring."
+ |Data Interoperability, Syntactic harmonization,
+Semantic Model Generation and Alignment, Smart Water Networks,
+IoT/WoT, Ontology, Representation Standard, Water
+Quality Monitoring |;
 
 DISERTO: Semantics-Based Tool for Automatic and Virtual Data Integration |
-In various domains, the continually increasing volume of heterogeneous data generated from different sources is overwhelming. However, the exploitation of this data is still limited while, in most cases, sources are not interoperable, and hence, data are not linked. These issues are due to the semantic, syntactic, and schematic heterogeneity of the data. In this work, we propose a semantic virtual Data Integration TOol based on Semantic Enhancement and RML (RDF Mapping Language) mappings called DISERTO. It automatically generates RML mappings through domain ontology and thesaurus to categorize the semantics behind the data. It follows three main steps: (1) extracting relevant metadata (data schema), (2) mapping metadata to a domain ontology by taking advantages of RDF quads, and finally (3) generating RML mappings. To validate the tool, we provide a case study based on real data provided by the Sahara and Sahel Observatory (OSS) and the National Oceanic and Atmospheric Administration (NOAA). It shows a semantic annotation followed by an RML mapping generation of a raster input image and CSV files. |;
+In various domains, the continually increasing volume of heterogeneous data generated from different sources is overwhelming. However, the exploitation of this data is still limited while, in most cases, sources are not interoperable, and hence, data are not linked. These issues are due to the semantic, syntactic, and schematic heterogeneity of the data. In this work, we propose a semantic virtual Data Integration TOol based on Semantic Enhancement and RML (RDF Mapping Language) mappings called DISERTO. It automatically generates RML mappings through domain ontology and thesaurus to categorize the semantics behind the data. It follows three main steps: (1) extracting relevant metadata (data schema), (2) mapping metadata to a domain ontology by taking advantages of RDF quads, and finally (3) generating RML mappings. To validate the tool, we provide a case study based on real data provided by the Sahara and Sahel Observatory (OSS) and the National Oceanic and Atmospheric Administration (NOAA). It shows a semantic annotation followed by an RML mapping generation of a raster input image and CSV files.
+|Virtual data integration, semantic
+interoperability, ontology, RDF quad, RML mappings. |;
 
 FAIRification of Citizen Science Data Through Metadata-Driven Web API Development |
-"Citizen Science (CS) implies a collaborative process to encourage citizens to collect data in CS projects and platforms. Unfortunately, these CS initiatives do not follow metadata nor data-sharing standards, which hampers their discoverability and reusability. To improve this scenario in CS is crucial to consider FAIR (Findability, Accessibility, Interoperability and Reusability) guidelines. Therefore, this paper defines a FAIRification process (i.e. make CS initiatives more FAIR compliant) which maps metadata of CS platforms’ catalogues to DCAT and generates Web Application Programming Interfaces (APIs) for improving CS data discoverability and reusability in an integrated approach. An experiment in a CS platform with different CS projects shows the performance and suitability of our FAIRification process. Specifically, the validation of the DCAT metadata generated by our FAIRification process was conducted through a SHACL standard validator, which emphasises how the process could boost CS projects to become more FAIR compliant. © 2022, Springer Nature Switzerland AG. |;
+"Citizen Science (CS) implies a collaborative process to encourage citizens to collect data in CS projects and platforms. Unfortunately, these CS initiatives do not follow metadata nor data-sharing standards, which hampers their discoverability and reusability. To improve this scenario in CS is crucial to consider FAIR (Findability, Accessibility, Interoperability and Reusability) guidelines. Therefore, this paper defines a FAIRification process (i.e. make CS initiatives more FAIR compliant) which maps metadata of CS platforms’ catalogues to DCAT and generates Web Application Programming Interfaces (APIs) for improving CS data discoverability and reusability in an integrated approach. An experiment in a CS platform with different CS projects shows the performance and suitability of our FAIRification process. Specifically, the validation of the DCAT metadata generated by our FAIRification process was conducted through a SHACL standard validator, which emphasises how the process could boost CS projects to become more FAIR compliant. © 2022, Springer Nature Switzerland AG.
+|Citizen science , FAIR , DCAT metadata , Web APIs , Open data |;
 
 Improving discovery of open civic data |
-We describe a method and system design for improved data discovery in an integrated network of open geospatial data that supports collaborative policy development between governments and local constituents. Metadata about civic data (such as thematic categories, user-generated tags, geo-references, or attribute schemata) primarily rely on technical vocabularies that reflect scientific or organizational hierarchies. By contrast, public consumers of data often search for information using colloquial terminology that does not align with official metadata vocabularies. For example, citizens searching for data about bicycle collisions in an area are unlikely to use the search terms with which organizations like Departments of Transportation describe relevant data. Users may also search with broad terms, such as "traffic safety", and will then not discover data tagged with narrower official terms, such as "vehicular crash". This mismatch raises the question of how to bridge the users' ways of talking and searching with the language of technical metadata. In similar situations, it has been beneficial to augment official metadata with semantic annotations that expand the discoverability and relevance recommendations of data, supporting more inclusive access. Adopting this strategy, we develop a method for automated semantic annotation, which aggregates similar thematic and geographic information. A novelty of our approach is the development and application of a crosscutting base vocabulary that supports the description of geospatial themes. The resulting annotation method is integrated into a novel open access collaboration platform (Esri's ArcGIS Hub) that supports public dissemination of civic data and is in use by thousands of government agencies. Our semantic annotation method improves data discovery for users across organizational repositories and has the potential to facilitate the coordination of community and organizational work, improving the transparency and efficacy of government policies. © Sara Lafia, Andrew Turner, and Werner Kuhn. |;
+We describe a method and system design for improved data discovery in an integrated network of open geospatial data that supports collaborative policy development between governments and local constituents. Metadata about civic data (such as thematic categories, user-generated tags, geo-references, or attribute schemata) primarily rely on technical vocabularies that reflect scientific or organizational hierarchies. By contrast, public consumers of data often search for information using colloquial terminology that does not align with official metadata vocabularies. For example, citizens searching for data about bicycle collisions in an area are unlikely to use the search terms with which organizations like Departments of Transportation describe relevant data. Users may also search with broad terms, such as "traffic safety", and will then not discover data tagged with narrower official terms, such as "vehicular crash". This mismatch raises the question of how to bridge the users' ways of talking and searching with the language of technical metadata. In similar situations, it has been beneficial to augment official metadata with semantic annotations that expand the discoverability and relevance recommendations of data, supporting more inclusive access. Adopting this strategy, we develop a method for automated semantic annotation, which aggregates similar thematic and geographic information. A novelty of our approach is the development and application of a crosscutting base vocabulary that supports the description of geospatial themes. The resulting annotation method is integrated into a novel open access collaboration platform (Esri's ArcGIS Hub) that supports public dissemination of civic data and is in use by thousands of government agencies. Our semantic annotation method improves data discovery for users across organizational repositories and has the potential to facilitate the coordination of community and organizational work, improving the transparency and efficacy of government policies. © Sara Lafia, Andrew Turner, and Werner Kuhn.
+|data discovery, metadata, query expansion, interoperability |;
 
 Information Integration of Heterogeneous Medical Database Systems Using Metadata |
 Heterogeneous databases combined with the many different data structures of health units in Thailand have created vast problems with information integration. 
@@ -309,7 +321,8 @@ As a result, information exchange between health units has become increasingly d
  without an online connection. To transfer data while offline, the agent system adapter connector, which is an automatic program running as a background process,
  will generate the transferring queue. The system performs the data transfer when the network connection is reestablished, and deletes the queue. An actual case
  study is presented herein in order to demonstrate the design and implementation details, as well as the integration between the heterogeneous database systems.
- © 2017 IEEE. |;
+ © 2017 IEEE. 
+ |data discovery, metadata, query expansion, interoperability|;
 
 Integrated Access to Multidisciplinary Data Through Semantically Interoperable Services in a Metadata-Driven Platform for Solid EarthScience | 
 "The ability to use data produced by different sources (social networks,
@@ -333,13 +346,20 @@ Integrated Access to Multidisciplinary Data Through Semantically Interoperable S
   communities' long-lasting technical practices, and of ability to track
   provenance are discussed. Future work for providing open-source
   implementation of a system built following the proposed approach is also
-  envisaged." |;
+  envisaged."|Metadata , Interoperability , Semantics , Multidisciplinary Data ,
+Heterogeneous datasets , Services integration , EPOS |;
+
 Interoperability of population-based patient registries.	| 
 Enabling full interoperability within and between population-based patient-registry domains would open up access to a rich and unique source of health data for secondary data usage. Previous attempts to tackle patient-registry interoperability have met with varying degrees of success, but a unifying solution remains elusive. The purpose of this paper is to show by practical example how a solution is attainable via the implementation of an existing framework based of the concept of federated, semantic metadata registries. One important feature motivating the use of this framework is that it can be implemented gradually and independently within each patient-registry domain. By employing linked open data principles, the framework extends the ISO/IEC 11179 standard to provide both syntactic and semantic interoperability of data elements with the means of specifying automated extraction scripts for retrieval of data from different registry content models. The examples provided address the domain of European population-based cancer registries to demonstrate the feasibility of the approach. One of the examples shows how quick gains are derivable by allowing retrieval of 
 aggregated core data sets. The other examples show how aggregated full sets of data and record-level data might also be retrieved from each local registry. 
 An infrastructure of patient-registry domains adhering to the principles of the framework would provide the semantic contexts and inter-linkage of data necessary 
 for automated search and retrieval of registry data. It would thereby also lay the foundation for making registry data serviceable to artificial intelligence (AI) 
-applications. |;
+applications.|Population-based patient registries,
+Interoperability,
+Federated semantic metadata registry,
+framework,
+ISO/IEC 11179,
+Linked Open Data |;
 
 Is my:sameAs the same as your:sameAs? |
 	"Linking between entities in different datasets is a crucial element of
@@ -358,7 +378,8 @@ Is my:sameAs the same as your:sameAs? |
  task and context, constructing a context-specific ``Lenticular Lens{''}.
  Such lenses can be combined using operators such as union, intersection,
  difference and composition. We illustrate and validate our approach with
- a realistic application that supports researchers in social science." |;
+ a realistic application that supports researchers in social science."
+ |owl:sameAs, linkset, lens, data integration |;
 
 LabBook: Metadata-driven social collaborative data analysis |
 Open data analysis platforms are being adopted to support collaboration in science and business. Studies suggest that analytic work in an enterprise occurs
@@ -368,7 +389,9 @@ Open data analysis platforms are being adopted to support collaboration in scien
 collaborators they need to integrate, visualize, and analyze data. The key insight is to collect and use more metadata about all elements of the analytic
  ecosystem by means of an architecture and user experience that reduce the cost of contributing such metadata. We demonstrate how metadata can be exploited
  to improve the collaborative user experience and facilitate collaborative data integration and recommendations. We describe a specific use case and discuss
- several design issues concerning the capture, representation, querying and use of metadata. © 2015 IEEE. |;
+ several design issues concerning the capture, representation, querying and use of metadata. © 2015 IEEE.
+ |metadata, collaboration, data discovery,
+data analytics |;
 
 Managing a community shared vocabulary for hydrologic observations	|
 The ability to discover and integrate data from multiple sources, projects, and research efforts is critical as scientists continue to investigate complex hydrologic processes at expanding spatial and temporal scales. Until recently, syntactic and semantic heterogeneity in data from different sources made data discovery and integration difficult. The Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI) Hydrologic Information System (HIS) was developed to improve access to hydrologic data. A major semantic challenge related to data sharing and publication arose in development of the HIS. No accepted vocabulary existed within the hydrology research community for describing hydrologic observations, making it difficult to discover and synthesize data from multiple research groups even if access to the data was not a barrier. Additionally, the hydrology research community relies heavily on data collected or assembled by government agencies such as USGS and USEPA, each of which has its own semantics for describing observations. This semantic heterogeneity across data sources was a challenge in developing tools that support data discovery
@@ -376,7 +399,11 @@ The ability to discover and integrate data from multiple sources, projects, and 
 community shared vocabulary and its supporting management tools that can be used by data publishers to populate metadata describing hydrologic observations 
 to ensure that data from multiple sources published within the CUAHSI HIS are semantically consistent. We also describe how the CUAHSI HIS mediates across 
 terms in the community shared vocabulary and terms used by government agencies to support discovery and integration of datasets published by both academic 
-researchers and government agencies. © 2013 Elsevier Ltd. |;
+researchers and government agencies. © 2013 Elsevier Ltd. 
+|Controlled vocabulary,
+Data publication,
+CUAHSI HIS,
+Hydrologic observations|;
 
 Metadata application profile as a mechanism for semantic interoperability in FAIR and open data publishing |
 	Application profiles, also known as metadata application profiles, are customised collections of vocabularies adapted from various namespaces and tailored for specific local applications. These profiles act as constrainers and explainers for the (meta)data. Semantic interoperability is the ability of computer systems to exchange data in a mutually understandable manner, facilitating data sharing across diverse platforms and applications without compromising its meaning. As a critical component of semantic interoperability, application profiles enforce semantics to (meta)data, enhancing its openness, interoperability, and reusability. This study assesses the feasibility of representing a comprehensive application profile in a format aligned with the semantic web, ensuring interoperability between profiles and datasets. Dublin Core Description Set Profiles (DSP) is adapted as the modeling framework for metadata application profiles, steering the associated datasets toward RDF compliance. The research outcomes include “Yet Another Metadata Application Profiles” (YAMA) as a preprocessor grounded in the DSP framework for developing and managing metadata application 
@@ -384,10 +411,21 @@ profiles. YAMA facilitates the generation of various standard formats of applica
  machine-actionable forms, and even data validation languages. A data mapping extension to YAMA is proposed to ensure the semantic interoperability of open data,
  bridging non-RDF data structures to RDF, thus enabling the publication of 5-star open data. This ensures smooth dataset integration and the creation of linkable,
  semantically rich open datasets. The work emphasizes the pivotal role of application profiles in fortifying the semantic interoperability of (meta)data, 
-thereby elevating dataset openness. © 2024 The Authors |;
+thereby elevating dataset openness. © 2024 The Authors
+|Application profiles,
+Semantic interoperability,
+Data Interoperability,
+Open data,
+FAIR data,
+Linking data,
+Semantic validation,
+Linked Open Data,
+RDF |;
 
 Metadata based management and sharing of distributed biomedical data |
-	Biomedical research data sharing is becoming increasingly important for researchers to reuse experiments, pool expertise and validate approaches. However, there are many hurdles for data sharing, including the unwillingness to share, lack of flexible data model for providing context information, difficulty to share syntactically and semantically consistent data across distributed institutions, and high cost to provide tools to share the data. SciPort is a web-based collaborative biomedical data sharing platform to support data sharing across distributed organisations. SciPort provides a generic metadata model to flexibly customise and organise the data. To enable convenient data sharing, SciPort provides a central server based data sharing architecture with a one-click data sharing from a local server. To enable consistency, SciPort provides collaborative distributed schema management across distributed sites. To enable semantic consistency, SciPort provides semantic tagging through controlled vocabularies. SciPort is lightweight and can be easily deployed for building data sharing communities. Copyright © 2014 Inderscience Enterprises Ltd. |;
+	Biomedical research data sharing is becoming increasingly important for researchers to reuse experiments, pool expertise and validate approaches. However, there are many hurdles for data sharing, including the unwillingness to share, lack of flexible data model for providing context information, difficulty to share syntactically and semantically consistent data across distributed institutions, and high cost to provide tools to share the data. SciPort is a web-based collaborative biomedical data sharing platform to support data sharing across distributed organisations. SciPort provides a generic metadata model to flexibly customise and organise the data. To enable convenient data sharing, SciPort provides a central server based data sharing architecture with a one-click data sharing from a local server. To enable consistency, SciPort provides collaborative distributed schema management across distributed sites. To enable semantic consistency, SciPort provides semantic tagging through controlled vocabularies. SciPort is lightweight and can be easily deployed for building data sharing communities. Copyright © 2014 Inderscience Enterprises Ltd.
+    |metadata, scientific data management, data sharing, data integration, computer supported
+collaborative work |;
 
 Metadata Driven Integration of Clinical Data for Secondary Use in FHIR - A Pilot Study at the UKSH	|
 Introduction The reuse of clinical data from clinical routine is a topic of research within the field of medical informatics under the term secondary use. 
@@ -399,7 +437,8 @@ Results A metadata-based approach using an MDR system was developed to simplify 
 while offering many advantages in terms of flexibility and data quality. This facilitated the management and configuration of logic and definitions
  in one place, enabling the reusability and secondary use of data. Discussion This work allows the transfer of data elements without loss of detail
  and simplifies integration with target formats. The approach is adaptable for other ETL processes and eliminates the need for formatting concerns 
-in the target profile. © 2024 The Authors. |;
+in the target profile. © 2024 The Authors.
+|Data Integration, FHIR, Metadata, MDR, Secondary Use |;
 
 Metadata harvesting for digital library integration in Ukraine: acomparative study of the OAI-PMH protocol and VuFind's efficacy |
 	"Purpose - This paper aims to the problem of building an environment to
@@ -424,11 +463,15 @@ Metadata harvesting for digital library integration in Ukraine: acomparative stu
  and developed, was conducted. Originality/value - This paper was an
  attempt to outline the problems that arose in integrating resources,
  with the aim of developing future integration protocols that would have
- simple means of semantic data validation and built-in ETL mechanism." |;
+ simple means of semantic data validation and built-in ETL mechanism."
+ |OAI-PMH, ETL, Digital library harvesting, Metadata integration, Sharing research data,
+Vufind |;
 
 Metadata integration for an archaeology collection architecture |
 	During the lifecycle of a research project, from the collection of raw data through study to publication, researchers remain active curators and decide how to present their data for future access and reuse. Thus, current trends in data collections are moving toward infrastructure services that are centralized, flexible, and involve diverse technologies across which multiple researchers work simultaneously and in parallel. In this context, metadata is key to ensuring that data and results remain organized and that their authenticity and integrity are preserved. Building and maintaining it can be cumbersome, however, especially in the case of large and complex datasets. This paper presents our work to develop a collection architecture, with metadata at its core, for a large and varied archaeological collection. We use metadata, mapped to Dublin Core, to tie the pieces of this architecture together and to manage data objects as they move through the research lifecycle over time and across technologies and changing methods. This metadata, extracted automatically where possible, also fulfills a fundamental preservation role in case any part of the architecture should fail.
- © 2014, Dublin Core metadata initiative. All rights reserved. |;
+ © 2014, Dublin Core metadata initiative. All rights reserved.
+ |archeology, collection architecture, metadata integration, automated metadata
+extraction, ARK, iRODS rules, Corral, Rodeo, Ranch |;
 
 Metadata Integration Framework for Data Integration of Socio-Cultural Anthropology Digital Repositories: A Case Study of Princess Maha ChakriSirindhorn Anthropology Centre |
 	"Data integration is one of the most challenging tasks for digital
@@ -451,7 +494,9 @@ Metadata Integration Framework for Data Integration of Socio-Cultural Anthropolo
  system was developed to exemplify the system implementation of the
  framework. Evaluation results showed that the proposed metadata
  integration framework can support domain experts in socio-cultural
- anthropology in unified searching across the repositories." |;
+ anthropology in unified searching across the repositories."
+ |
+ metadata schema, anthropology, metadata integration, digital humanities, schema mapping |;
 
 Metadata Integration with Labeled-Property Graphs |
 	"The work reflects on the use case developed by FREYA project that
@@ -462,10 +507,14 @@ Metadata Integration with Labeled-Property Graphs |
   characterization can be considered a metadata model for the
   labeled-property graph and can be used for the graph exploration, the
   graph content monitoring, also for the graphs comparison and for the
-  automated generation of machine interfaces (APIs)." |;
+  automated generation of machine interfaces (APIs)."|
+  EU project , Metadata integration , Metadata modeling , Research
+information management , Persistent identifiers , Open Science |;
 
 Metadata management for data integration in medical sciences - Experiences from the LIFE study |
-	Clinical and epidemiological studies are commonly used in medical sciences. They typically collect data by using different input forms and information systems. Metadata describing input forms, database schemas and input systems are used for data integration but are typically distributed over different software tools; each uses portions of metadata, such as for loading (ETL), data presentation and analysis. In this paper, we describe an approach managing metadata centrally and consistently in a dedicated Metadata Repository (MDR). Metadata can be provided to different tools. Moreover, the MDR includes a matching component creating schema mappings as a prerequisite to integrate captured medical data. We describe the approach, the MDR infrastructure and provide algorithms for creating schema mappings. Finally, we show selected evaluation results. The MDR is fully operational and used to integrate data from a multitude of input forms and systems in the epidemiological study LIFE. © 2017 Gesellschaft fur Informatik (GI). All rights reserved. |;
+	Clinical and epidemiological studies are commonly used in medical sciences. They typically collect data by using different input forms and information systems. Metadata describing input forms, database schemas and input systems are used for data integration but are typically distributed over different software tools; each uses portions of metadata, such as for loading (ETL), data presentation and analysis. In this paper, we describe an approach managing metadata centrally and consistently in a dedicated Metadata Repository (MDR). Metadata can be provided to different tools. Moreover, the MDR includes a matching component creating schema mappings as a prerequisite to integrate captured medical data. We describe the approach, the MDR infrastructure and provide algorithms for creating schema mappings. Finally, we show selected evaluation results. The MDR is fully operational and used to integrate data from a multitude of input forms and systems in the epidemiological study LIFE. © 2017 Gesellschaft fur Informatik (GI). All rights reserved.
+    |Data Integration, Schema Matching, Schema Merging, Metadata Repository |;
+
 Metadata Reconciliation for Improved Data Binding and Integration |
 	"Data Integration has been a consistent concern in the Linked Open Data
  (LOD) research. The data integration problem (DIP) depends upon many
@@ -489,11 +538,17 @@ Metadata Reconciliation for Improved Data Binding and Integration |
  effectively be improved using reconciliation strategies. In this paper,
  we also briefly define the procedure of reconciliation that can
  semi-automate the interlinking and validation process for publishing
- linked data as an integrated resource." |;
+ linked data as an integrated resource."|
+ Metadata , Data reconciliation , Metadata reconciliation
+Open refine , Data integration , Fuzzy matching , Semantic metadata |;
+
 Metadata schema for context-aware augmented reality applications in cultural heritage domain	| 
 As cultural heritage domain enters the digital heritage era based on advanced digital technology, Augmented Reality(AR) technology has arisen as a new medium for enhancing user experience by augmenting additional information or content. Although there have been several AR applications in the cultural heritage domain, insufficient re-usability and interoperability of AR applications has inhibited the development of AR ecosystems. To address these issues, we propose the 5W1H-based metadata schema for context-aware AR applications in the cultural heritage domain, which consists of the PoI-AR Anchor-AR Contents relation based on Who, When, Where, What, Why, How and its whole metadata structure. We also propose a modified AR reference model to investigate the usefulness and effectiveness of the proposed schema. The 5W1H-based metadata schema provides a context-aware mediating platform that secures extensibility for further contextual information, and its whole metadata structure ensures the re-usability of the AR contents and interoperability of AR applications. The modified AR reference model describes the universal workflow and the generic framework for AR
  applications to encourage compatibility of following AR applications. Through these proposals, contextualized content retrieval according to user
- preference will be possible for AR applications in the cultural heritage domain. © 2015 IEEE. |;
+ preference will be possible for AR applications in the cultural heritage domain. © 2015 IEEE.
+ |Augmented Reality Metadata, Augmented Reality
+reference model, Context-aware, Cultural Heritage Domain |;
+
 Metadata Topic Harmonization and Semantic Search for Linked-Data-DrivenGeoportals: A Case Study Using ArcGIS Online |
 	"Geoportals provide integrated access to geospatial resources, and enable
  both authorities and the general public to contribute and share data and
@@ -520,12 +575,15 @@ Metadata Topic Harmonization and Semantic Search for Linked-Data-DrivenGeoportal
  evaluate our methods by examining their performances in addressing the
  two issues. Finally, we implement a semantics-enabled and
  Linked-Data-driven prototypical geoportal using a sample dataset from
- Esri's ArcGIS Online." |;
+ Esri's ArcGIS Online."| |;
+
 Metadata type system: integrate presentation, data models and extraction to enable exploratory browsing interfaces |
 	Exploratory browsing involves encountering new information during open-ended tasks. Disorientation and digression are problems that arise, as the user repeatedly loses context while clicking hyperlinks. To maintain context, exploratory browsing interfaces must present multiple web pages at once.Design of exploratory browsing interfaces must address the limits of display and human working memory. Our approach is based on expandable metadata summaries. Prior semantic web exploration tools represent documents as metadata, but often depend on semantic web formats and datasets assembled in advance. They do not support dynamically encountered information from popular web sites. Optimizing presentation of metadata summaries for particular types of documents is important as a further means for reducing the cognitive load of rapidly browsing across many documents. To address these issues, we develop a metadata type system as the basis for building exploratory browsing interfaces that maintain context. The type system leverages constructs from object-oriented programming languages. We integrate data models, extraction rules, and presentation semantics in types to 
 operationalize type specific dynamic metadata extraction and rich presentation. Using the type system, we built the Metadata In-Context Expander (MICE)
  interface as a proof of concept. A study, in which students engaged in exploring prior work, showed that MICE's metadata summaries help users maintain 
-context during exploratory browsing. |;
+context during exploratory browsing.|Dynamic Metadata, Exploratory Browsing, Type Systems |;
+
+
 MetaStore: an adaptive metadata management framework for heterogeneousmetadata models	| 
 "In this paper, we present MetaStore, a metadata management framework for
  scientific data repositories. Scientific experiments are generating a
@@ -562,13 +620,16 @@ MetaStore: an adaptive metadata management framework for heterogeneousmetadata m
  the practical usability of the MetaStore framework and that the
  requirements from the research communities have been realized, we
  describe our experience in the adoption of MetaStore for three
- communities." |;
+ communities."|
+ MetaStore , NoSQL database , Automated code generation , Annotations |;
+
 Modeling the Complexity of Music Metadata in Semantic Graphs for Exploration and Discovery	|
 Representing and retrieving fine-grained information related to something as complex as music composition, recording and performance is a challenging activity. This complexity requires that the data model enables to describe different outcomes of the creative process, from the writing of the score, to its performance and publishing. In this paper, we show how we design the DOREMUS ontology as an extension of the FRBRoo model in order to represent music metadata coming from different libraries and cultural institutions and how we publish this data as RDF graphs. We designed and re-used several controlled vocabularies that provide common identifiers that overcome the differences in language and alternative forms of needed concepts. These graphs are interlinked to each other and to external resources on the Web of Data. We show how these graphs can be walked through for designing a web-based application providing an exploratory search engine for presenting complex music metadata to the end-user. Finally, we demonstrate how this model and this exploratory application is suitable for answering non-trivial questions collected from experts and is a first step towards a fully fledged recommendation engine.
-|;
+|Ontology, FRBRoo, Music Metadata, Linked Data, Data Interlinking|;
+
 ODMedit: Uniform semantic annotation for data integration in medicine based on a public metadata repository |
 	Background: The volume and complexity of patient data - especially in personalised medicine - is steadily increasing, both regarding clinical data and genomic profiles: Typically more than 1,000 items (e.g., laboratory values, vital signs, diagnostic tests etc.) are collected per patient in clinical trials. In oncology hundreds of mutations can potentially be detected for each patient by genomic profiling. Therefore data integration from multiple sources constitutes a key challenge for medical research and healthcare. Methods: Semantic annotation of data elements can facilitate to identify matching data elements in different sources and thereby supports data integration. Millions of different annotations are required due to the semantic richness of patient data. These annotations should be uniform, i.e., two matching data elements shall contain the same annotations. However, large terminologies like SNOMED CT or UMLS don't provide uniform coding. It is proposed to develop semantic annotations of medical data elements based on a large-scale public metadata repository. To achieve uniform codes, semantic annotations shall be re-used if a matching data element is available in the metadata repository. Results: A web-based tool called ODMedit (https://odmeditor.uni-muenster.de/) was developed to create data models with uniform semantic annotations. It contains ~800,000 terms with semantic annotations which were derived from ~5,800 models from the portal of medical data models (MDM). The tool was successfully applied to manually annotate 22 forms with 292 data items from CDISC and to update 1,495 data models of the MDM portal. Conclusion: Uniform manual semantic annotation of data models is feasible in principle, but requires a large-scale collaborative effort due to the semantic richness of patient data. A web-based tool for these annotations is available, which is linked to a public metadata repository. © 2016 Dugas et al.
-|;
+|Semantic annotation, Personalised medicine, Data integration, ODM|;
 
 Plaster: An Integration, Benchmark, and Development Framework forMetadata Normalization Methods	|
 "The recent advances in the automation of metadata normalization and the
@@ -596,7 +657,7 @@ buildings. Yet, the lack of compatibility between existing metadata
  series features. We believe Plaster will facilitate the development of
  new algorithms and expedite the adoption of standard metadata schema
  such as Brick, in order to enable seamless smart building applications
- in the future." |;
+ in the future." |smart buildings, metadata, machine learning, benchmark|;
 
 Pragmatic MDR: a metadata repository with bottom-up standardization ofmedical metadata through reuse	|
 "Background The variety of medical documentation often leads to
@@ -635,7 +696,8 @@ Pragmatic MDR: a metadata repository with bottom-up standardization ofmedical me
  metadata can yield useful results. The proposed concept shall not
  replace existing top-down approaches, rather it complements them by
  showing what is commonly used in the community to guide other
- researchers." |;
+ researchers."|Metadata repository, Metadata standardization, Data integration, ISO/IEC 11179 |;
+
 PROPOSAL FOR THE STANDARDIZATION OF CONTROLLED VOCABULARIES FORTELEVISION ARCHIVES: CASE STUDY AT RTVE	|
 "Controlled vocabularies play a crucial role in indexing and retrieving
  content in audiovisual archives. The integration of SKOS and ontologies
@@ -648,16 +710,21 @@ PROPOSAL FOR THE STANDARDIZATION OF CONTROLLED VOCABULARIES FORTELEVISION ARCHIV
  from the different thesauri, represented through a relational database
  schema. The results of the unified thesauri and the mapping of
  vocabulary concepts to Wikidata items are shown to reinforce integration
- in the realm of Linked Data." |;
+ in the realm of Linked Data."|SKOS, TV audiovisual archives, thesauri integration, controlled vocabularies |;
+
 Rapid data integration and analysis for upstream oil and gas applications |
 	The increasingly large number of sensors and instruments in the oil and gas industry, along with novel means of communication in the enterprise has led to a corresponding increase in the volume of data that is recorded in various information repositories. The variety of information sources is also expanding: from traditional relational databases to time series data, social network communications, collections of unsorted text reports, and linked data available on the Web. Enabling end-to-end optimization considering these diverse types of information requires creating semantic links between them. Though integration of data across silo-ed databases has been recognized as a problem for a long time, it has proven to be difficult to accomplish due to the complexity of the data arrangement within databases, scarcity of metadata that describe the content, lack of a direct mapping between related entities across databases, and the several types of data represented within a database. In addition, there are large amounts of unstructured text data such as text entries in databases and document repositories. These contain valuable information on processes from the field but there is currently no method to convert this raw data to useable information. The Center for Interactive Smart Oilfield Technologies (CiSoft) is a USC-Chevron Center of Excellence for Research and Academic Training on Smart Oilfield Technologies. We describe the Integrated Optimization project at CiSoft which has the goal of developing a framework for automated linking of heterogeneous data sources and analysis of the integrated data in the context of upstream applications. © Copyright 2015, Society of Petroleum Engineers.
-|;
+||;
+
 Reconciling Heterogeneous Descriptions of Language Resources |
 	Language resources are a cornerstone of linguistic research and for the development of natural language processing tools, but the discovery of relevant resources remains a challenging task. This is due to the fact that relevant metadata records are spread among different repositories and it is currently impossible to query all these repositories in an integrated fashion, as they use different data models and vocabularies. In this paper we present a first attempt to collect and harmonize the metadata of different repositories, thus making them queriable and browsable in an integrated way. We make use of RDF and linked data technologies for this and provide a first level of harmonization of the vocabularies used in the different resources by mapping them to standard RDF vocabularies including Dublin Core and DCAT. Further, we present an approach that relies on NLP and in particular word sense disambiguation techniques to harmonize resources by mapping values of attributes - such as the type, license or intended use of a resource - into normalized values. Finally, as there are duplicate entries within the same repository as well as across different repositories, we also report results of detection of these duplicates. © 2015 Association for Computational Linguistics and Asian Federation of Natural Language Processing.
-|;
+||;
+
 Reducing consumer uncertainty: Towards an ontology for geospatial user-centric metadata	|
 With the increased use of geospatial datasets across heterogeneous user groups and domains, assessing fitness-for-use is emerging as an essential task. Users are presented with an increasing choice of data from various portals, repositories, and clearinghouses. Consequently, comparing the quality and evaluating fitness-for-use of different datasets presents major challenges for spatial data users. While standardization efforts have significantly improved metadata interoperability, the increasing choice of metadata standards and their focus on data production rather than potential data use and application, renders typical metadata documents insufficient for effectively communicating fitness-for-use. Thus, research has focused on the challenge of communicating fitness-for-use of geospatial data, proposing a more “user-centric” approach to geospatial metadata. We present the Geospatial User-Centric Metadata ontology (GUCM) for communicating fitness-for-use of spatial datasets to users in the spatial and other domains, to enable them to make informed data source selection decisions. GUCM enables metadata description for various components of a dataset in the context of different application domains. It captures producer-supplied and user-described metadata in structured format using concepts from domain-independent ontologies. This facilitates interoperability between spatial and nonspatial metadata on open data platforms and provides the means for searching/discovering spatial data based on user-specified quality and fitness-for-use criteria. © 2020 by the authors. Licensee MDPI, Basel, Switzerland.
-|;
+|spatial metadata, fitness-for-use, uncertainty handling in spatial data, user-centric
+metadata, ontology, structured metadata, interoperability and open systems|;
+
 Research on information organizations and intelligent retrievals for digital library based on ontology and semantic web	| 
 The semantic web provides a semantic interoperation model, and effectively realizes discoveries, sharing and application integrations of network resources. 
 This paper expounds the key technologies such as semantic web, semantic intelligent retrieval, ontology construction, and metadata standards of digital
@@ -665,7 +732,9 @@ This paper expounds the key technologies such as semantic web, semantic intellig
  the organization method for digital literature resources. Moreover, we design an intelligent retrieval system model for semantic of digital literature
  resources based on ontology. The system consists of digital document repository, semantic annotators, ontology manager, retrieving the preprocessor,
  retrieving the reflector, and searching engine. The experiment shows that our method can improve the recall and precision of digital literature resources
- retrieval. © 2017, Springer Nature Singapore Pte Ltd. |;
+ retrieval. © 2017, Springer Nature Singapore Pte Ltd.|
+ Digital literature resources , Information organization , Intelligent
+retrieval , Ontology , Semantic web |;
 
 RIKEN MetaDatabase: A Database Platform for Health Care and LifeSciences as a Microcosm of Linked Open Data Cloud |
 	"Recently, the number and heterogeneity of life science datasets
@@ -683,10 +752,15 @@ RIKEN MetaDatabase: A Database Platform for Health Care and LifeSciences as a Mi
  databases, with 26 ontologies have been published using this platform as
  of January 2017. This paper describes the technical knowledge obtained
  through the development and operation of the RIKEN MetaDatabase to
- accelerate life science data distribution." |;
+ accelerate life science data distribution."|
+ Bioresource, Database Cloud Platform, Database Integration, Electron Microscopy Imaging Database, Imaging
+Data Integration, Life Sciences, Linked Open Data (LOD), Ontology, Open Microscopy Environment (OME),
+Phenotype, Resource Description Framework (RDF), Semantic Web, Web Ontology Language (OWL) |;
+
 Semantic data integration methods based on ontologies in intelligent business analytics systems	|
 The basis of the data integration service of cognitive systems is the linguistic means of describing integrated data (Integrated Data Framework - IDF). IDF is a specialized language for creating metadata that describes the properties of a data set and the order of its application in integration processes. The syntax of IDF is based on the XML syntax, which provides the possibility of processing language constructions by standard means. The peculiarity of the means of integration is that, unlike known technologies, they are implemented not at the instrumental level, but at the protocol level. This solution makes it possible to perform data integration using an intermediate layer, on which actions are performed independently of the platforms and technologies of implementation of other components of the open information system. In the course of the work, an analysis of existing approaches to the specification of formal description languages, in particular UML, OWL, XACML, etc., was carried out. The model description language is based on XML, as a flexible tool that allows you to expand the syntax and semantics of the language and is based on the vast majority of modern languages used in ontological modelling. The scope of application of the model description language is determined by the main variants of its use. © 2024 Copyright for this paper by its authors.
-|;
+|intelligent system, semantics, ontology, data integration, content integration, business analytics|;
+
 Semantic integration of enterprise information systems usingmeta-metadata ontology	| 
 "This paper proposes a non-domain-specific metadata ontology as a core
  component in a semantic model-based document management system (DMS), a
@@ -711,11 +785,17 @@ Semantic integration of enterprise information systems usingmeta-metadata ontolo
  metadata views, but also opens the door for automating the process of
  documents long-term archiving. For the case study, we chose judicial
  domain as a promising ground for improving the efficiency of the
- judiciary by introducing the semantics in this field." |;
+ judiciary by introducing the semantics in this field."|
+ Enterprise information systems , Semantic document management
+systems , Semantic services , Metadata model , Model-to-model mappings ,
+Semantic metadata translation |;
 
 Semantic Mediation of Metadata for Marine Geochemical Data Integration	|
 With the evolution of sea floor exploration technologies, marine samples and the corresponding geochemical data increased dramatically. The heterogeneity of the data in terms of syntactic and semantic structures becomes an obstacle to knowledge integration, transmission and sharing. In order to solve the problems of long-lived data collection and integration, this paper proposes a semi-automatic method based on a semantic extraction and semantic matching technique. We develop semantic extract and semantic matching tools, which are named Metadata Extraction and Metadata Mapping respectively. Metadata Extraction tool could extract the metadata of users' datasets. Metadata Mapping tool could establish semantic mappings semi-automatically. Moreover, hierarchies of users' metadata are added automatically according to the semantic mapping. The method is applied to marine geochemical data from Cruises of Chinese International Deep Seabed Resource Survey. Experimental results show that our approach not only reduce the workload of data integration, but also immensely eliminate the problem of the semantic heterogeneity.
-|;
+|
+Metadata, Data Integration, Semantic Extraction, Semantic Matching|;
+
+
 Semantic Metadata Annotation Services in the Biomedical Domain-A Literature Review |
 	"For all research data collected, data descriptions and information about
  the corresponding variables are essential for data analysis and reuse.
@@ -743,7 +823,8 @@ Semantic Metadata Annotation Services in the Biomedical Domain-A Literature Revi
  no system meets all requirements. Consequently, further research and
  software development in this area is needed, as interoperability of data
  dictionaries, questionnaires and data collection tools is key to reusing 
- and combining results from independent research studies." |;
+ and combining results from independent research studies."|
+ interoperability, FAIR data, semantic metadata, metadata enrichment, annotation service |;
 
 Semantic-based Data Integration and Mapping Maintenance: Application toDrugs Domain |
 	"In recent years, the number of data sources and the amount of generated
@@ -765,11 +846,15 @@ Semantic-based Data Integration and Mapping Maintenance: Application toDrugs Dom
  both convolutional, and Long short-term memory networks. A prototype has
  been developed and performed on two use cases. The process is fully
  automated and the experiments show significant results compared to the
- state of the art." |;
+ state of the art."|
+ Big Data, Mapping Maintenance, Data Integration, Ontology, Deep Learning, Classification. |;
 
 Synapse : Towards Linked Data for Smart Cities using a Semantic Annotation Framework |
 	Existing research in the smart city domain concentrates on data collection and storage from numerous sensors deployed in cities. The absence of metadata such as the meaning of the collected data, the context and relationships with other data, has hindered interoperability among intelligent services in the smart city. Linked data is an important concept which can improve various smart city services by adding and connecting metadata to all data existing in smart city. In this paper, we propose a semantic annotation framework, Synapse, that can add meaning to data and annotate relationships between data using ontologies. The Synapse framework provides annotations that make it easier to add a Common Ontology and metadata that can be used across multiple smart city services. Synapse provides the ability to index and annotate using ontology schema and smart city data providing the search and traversal mechanisms for semantic-based linked data. To support temporal associations, Synapse uses data time-stamps in the ontology and utilizes it as linked data. Synapse ontologies define the relationship between common concept and functions such as zones, evaluations, and observations required in smart cities, and provides a dynamic structure with which ontologies can be derived for specific domains. In order to verify the feasibility of Synapse, ontology and annotation technology was successfully applied to 90,240 data points collected from smart parking services and air quality services.
+|Smart City, Semantics,Linked Data, Internet-of-
+Things (IoT), Interoperability
 |;
+
 The Europeana Network of Ancient Greek and Latin Epigraphy DataInfrastructure	| 
 "Epigraphic archives, containing collections of editions about ancient
  Greek and Latin inscriptions, have been created in several European
@@ -787,7 +872,9 @@ The Europeana Network of Ancient Greek and Latin Epigraphy DataInfrastructure	|
  from different archives can be optimally mapped. The data infrastructure
  is based on the D-NET software toolkit, capable of dealing with data
  collection, mapping, cleaning, indexing, and access provisioning through
- web portals or standard access protocols." |;
+ web portals or standard access protocols."|
+ Data Infrastructure, Aggregation System, Metadata Formats, Data
+Interoperability, Data Harmonization, Cleaning, Epigraphy, D-NET. |;
 
 The eXtensible ontology development (XOD) principles and toolimplementation to support ontology interoperability	|
 "Ontologies are critical to data/metadata and knowledge standardization,
@@ -807,7 +894,10 @@ The eXtensible ontology development (XOD) principles and toolimplementation to s
  adoption of the XOD strategy, together with robust XOD tool development,
  will greatly support ontology interoperability and robust ontology
  applications to support data to be Findable, Accessible, Interoperable
- and Reusable (i.e., FAIR)." |;
+ and Reusable (i.e., FAIR)."|
+ Ontology, Interoperability, eXtensible ontology development, Software, Ontoanimal tools, Ontofox, Ontobee,
+Ontorat, Semantic alignment, And ontology design pattern |;
+
 The GAAIN Entity Mapper: An Active-Learning System for Medical DataMapping	 | 
 "This work is focused on mapping biomedical datasets to a common
  representation, as an integral part of data harmonization for integrated
@@ -833,17 +923,23 @@ The GAAIN Entity Mapper: An Active-Learning System for Medical DataMapping	 |
  datasets compared to other state-of-the-art tools for database schema
  matching that have similar functionality. With the use of
  active-learning capabilities, the user effort in training the system is
- minimal." |;
+ minimal."|
+ data mapping,machine learning,active Learning,data harmonization,common datamodel |;
 
 The semantic data dictionary approach to data annotation & integration |
 	A standard approach to describing datasets is through the use of data dictionaries: tables which contain information about the content, description, and format of each data variable. While this approach is helpful for a human readability, it is difficult for a machine to understand the meaning behind the data. Consequently, tasks involving the combination of data from multiple sources, such as data integration or schema merging, are not easily automated. In response, we present the Semantic Data Dictionary (SDD) specification, which allows for extension and integration of data from multiple domains using a common metadata standard. We have developed a structure based on the Semanticscience Integrated Ontology's (SIO) high-level, domain-agnostic conceptualization of scientific data, which is then annotated with more specific terminology from domain-relevant ontologies. The SDD format will make the specification, curation and search of data much easier than direct search of data dictionaries through terminology alignment, but also through the use of “compositional” classes for column descriptions, rather than needing a 1:1 mapping from column to class.
-|;
+|Semantic Data Dictionary, Dictionary Mapping, Codebook, Knowledge Modeling, Data Integration, Data Dictionary, Mapping Language, Metadata Standard, Semantic Web, Semantic ETL, FAIR, Data|;
+
 Toward a framework for statistical data integration	| 
 A large number of statistical data sets have been published on the web by various organizations in recent years. The resulting abundance creates opportunities for new analyses and insights, but that frequently requires integrating data from multiple sources. Inconsistent formats, access methods, units, and scales hinder data integration and make it a tedious or infeasible task. Standards such as the W3C RDF data cube vocabulary and the content-oriented guidelines of SDMX provide a foundation to tackle these challenges. In this paper, we introduce a framework that semi-automatically performs semantic data integration on statistical raw data sources at query time. We follow existing standards to transform non-semantic data structures to RDF format. Furthermore, we describe each data set with semantic metadata to deal with inconsistent use of terminologies. This metadata provides the foundation for cross-dataset querying through a mediator that rewrites queries appropriately for each source and returns consolidated results.
-|;
+||;
+
 Toward a statistical data integration environment - the role of semantic metadata |
 	In most government and business organizations alike, statistical data provides the foundation for strategic planning and for the management of operations. In this context, the use of increasingly abundant statistical data available on the web creates new opportunities for interesting applications and facilitates more informed decision-making. For the majority of end users, however, viable means to explore statistical data sets available on the web are still scarce. Gathering and relating statistical data from multiple sources is hence typically a tedious manual process that requires significant technical expertise. Data that is being published with associated semantics, using standards such as the W3C RDF Data Cube Vocabulary, lays the foundation to overcome such limitations. In this paper, we develop a semantic metadata repository that describes each statistical data set and develop mechanisms for the interconnection of data sets based on their metadata. Finally, we support users in exploring data sets through interactive mashups that facilitate data integration, comparisons, and visualization.
-|;
+|Semantic Metadata, Data Integration, Statistical Data, Spatial
+Dimension, Temporal Dimension, RDF Data Cube Vocabulary,
+Mashup|;
+
 Toward a View-oriented Approach for Aligning RDF-based BiomedicalRepositories |
 	"Introduction: This article is part of the Focus Theme of Methods of
  Information in Medicine on Managing Interoperability and Complexity in
@@ -900,7 +996,9 @@ Toward a View-oriented Approach for Aligning RDF-based BiomedicalRepositories |
  integration of RDF-based data sources at schema (metadata) level. This
  approach provides an increased level of expressiveness compared to other
  existing solutions, and allows solving heterogeneity scenarios that
- cannot be properly represented using other state-ofthe-art techniques." |;
+ cannot be properly represented using other state-ofthe-art techniques."
+ |Ontology alignment, database integration,
+RDF |;
 
 Toward Better Semantic Interoperability of Data Element Repositories in Medicine: Analysis Study	| 
 "Background: Data element repositories facilitate high-quality medical data sharing by standardizing data and enhancing semantic
@@ -916,22 +1014,36 @@ and Reusable in the FAIR principle, while achieving a 90% (19/20 subprinciples) 
 subprinciples) for Interoperable.
 Conclusions: The recommendations proposed in this study address the issues to improve the construction and application of
 repositories, offering valuable insights to data managers, computer experts, and other pertinent stakeholders."
-|;
+|
+data element repository, FAIR, ISO/IEC 11179, metadata, semantic interoperability|;
+
 Towards a project centric metadata model and lifecycle for ontology mapping governance	| 
 Ontology matching and mapping is concerned with discovering correspondences between two ontologies to create a mapping that enable applications to relate, interlink or integrate data. The construction of such mappings is not trivial as they are created to serve a purpose and result from collaboration between the different stakeholders. Current ontology-mapping metadata formats only capture a glimpse of the mapping construction process by focusing on the exchange of mappings and they provide some limited properties to facilitate reuse and discovery. For mapping governance to be possible, we argue that a suitable metadata model -- which will be presented in this paper -- needs to capture all aspects from the ontology mapping lifecycle: from the inception of a project to the execution of these mappings. This allows one to formulate queries that not only would facilitate the discovery and reuse, but also queries that allow one to govern the ontology mapping projects and render the construction processes more transparent and traceable.
-|;
+|
+Ontology Alignment, Provenance, Metadata Management|;
+
 Towards a semantic data infrastructure for heterogeneous Cultural Heritage data - Challenges of Korean Cultural Heritage Data Model (KCHDM) |
 	Integrating one heterogeneous heritage dataset among various heritage institutions has been a common approach in the era of 'Open Data'. Cultural heritage institutions in Korea have also faced rapid changes of data technology and have started to discuss integration of databases among institutions. This will require a paradigm shift from independent databases to integrated databases for diverse data providers and users in the cultural heritage domain. Therefore, the 'K-Culture Time Machine' research project was launched with the goal of linking one heterogeneous DB with comprehensive metadata schema and developing an ontology-based information service for Korea's heritage. In this study we propose a structure of metadata schema to incorporate resources from heterogeneous databases that have their own metadata schemas already. We refer to the case of the Europeana Data Model (EDM); we come up with an ontology-based data model, called the Korean Cultural Heritage Data Model (KCHDM). The metadata schema we are proposing has as its purpose to function as an upper data model to aggregate the models of different institutions. Also, the data model aims to provide the possibility of a semantic link between heterogeneous datasets. For this goal, we propose an algorithm that extracts semantic patterns from description texts of each institution's heritage database. © 2015 IEEE.
-|;
+|
+Metadata Schema, Heterogeneous dataset,
+Cultural Heritage, CIDOC-CRM, Ontology, LOD, Heritage in
+Korea, Korean Cultural Heritage Data Model (KCHDM),
+Semantic Pattern Analysis|;
+
 Towards achieving semantic interoperability of clinical study data with FHIR |
 	Background: Observational clinical studies play a pivotal role in advancing medical knowledge and patient healthcare. To lessen the prohibitive costs of conducting these studies and support evidence-based medicine, results emanating from these studies need to be shared and compared to one another. Current approaches for clinical study management have limitations that prohibit the effective sharing of clinical research data. Methods: The objective of this paper is to present a proposal for a clinical study architecture to not only facilitate the communication of clinical study data but also its context so that the data that is being communicated can be unambiguously understood at the receiving end. Our approach is two-fold. First we outline our methodology to map clinical data from Clinical Data Interchange Standards Consortium Operational Data Model (ODM) to the Fast Healthcare Interoperable Resource (FHIR) and outline the strengths and weaknesses of this approach. Next, we propose two FHIR-based models, to capture the metadata and data from the clinical study, that not only facilitate the syntactic but also semantic interoperability of clinical study data. Conclusions: This work shows that our proposed FHIR resources provide a good fit to semantically enrich the ODM data. By exploiting the rich information model in FHIR, we can organise clinical data in a manner that preserves its organisation but captures its context. Our implementations demonstrate that FHIR can natively manage clinical data. Furthermore, by providing links at several levels, it improves the traversal and querying of the data. The intended benefits of this approach is more efficient and effective data exchange that ultimately will allow clinicians to switch their focus back to decision-making and evidence-based medicines. © 2017 The Author(s).
-|;
+|    
+FHIR, CDISC ODM, Interoperability, Clinical research data, Longitudinal clinical study|;
+
 Towards Information Profiling: Data Lake Content Metadata Management	 | 
 There is currently a burst of Big Data (BD) processed and stored in huge raw data repositories, commonly called Data Lakes (DL). These BD require new techniques of data integration and schema alignment in order to make the data usable by its consumers and to discover the relationships linking their content. This can be provided by metadata services which discover and describe their content. However, there is currently a lack of a systematic approach for such kind of metadata discovery and management. Thus, we propose a framework for the profiling of informational content stored in the DL, which we call information profiling. The profiles are stored as metadata to support data analysis. We formally define a metadata management process which identifies the key activities required to effectively handle this. We demonstrate the alternative techniques and performance of our process using a prototype implementation handling a real-life case-study from the OpenML DL, which showcases the value and feasibility of our approach. © 2016 IEEE.
-|;
+||;
+
 Ubiquitous access to digital cultural heritage |
 	The digitization initiatives in the past decades have led to a tremendous increase in digitized objects in the cultural heritage domain. Although digitally available, these objects are often not easily accessible for interested users because of the distributed allocation of the content in different repositories and the variety in data structure and standards. When users search for cultural content, they first need to identify the specific repository and then need to know how to search within this platform (e.g., usage of specific vocabulary). The goal of the EEXCESS project is to design and implement an infrastructure that enables ubiquitous access to digital cultural heritage content. Cultural content should be made available in the channels that users habitually visit and be tailored to their current context without the need to manually search multiple portals or content repositories. To realize this goal, open-source software components and services have been developed that can either be used as an integrated infrastructure or as modular components suitable to be integrated in other products and services. The EEXCESS modules and components comprise (i) Web-based context detection, (ii) information retrieval-based, federated content aggregation, (iii) metadata definition and mapping, and (iv) a component responsible for privacy preservation. Various applications have been realized based on these components that bring cultural content to the user in content consumption and content creation scenarios. For example, content consumption is realized by a browser extension generating automatic search queries from the current page context and the focus paragraph and presenting related results aggregated from different data providers. A Google Docs add-on allows retrieval of relevant content aggregated from multiple data providers while collaboratively writing a document. These relevant resources then can be included in the current document either as citation, an image, or a link (with preview) without having to leave disrupt the current writing task for an explicit search in various content providers' portals. © 2017 ACM.
-|;
+|
+Search aggregation, user context detection, metadata harmonization|;
+
 UGESCO - A Hybrid Platform for Geo-Temporal Enrichment of Digital Photo Collections Based on Computational and Crowdsourced Metadata Generation  |
 	The majority of digital photo collections at museums, archives and libraries are facing (meta) data problems that impact their interpretation, exploration and exploitation. In most cases, links between collection items are only supported at the highest level, which limits the item’s searchability and makes it difficult to generate scientific added value out of it or to use the collections in new end-user focused applications. The geo-temporal metadata enrichment tools that are proposed in this paper tackle these issues by extending and linking the existing collection items and by facilitating their spatio-temporal mapping for interactive querying. To further optimize the quality of the temporal and spatial annotations that are retrieved by our automatic enrichment tools, we also propose some crowdsourced microtasks to validate and improve the generated metadata. This crowdsourced input on its turn can be used to further optimize (and retrain) the automatic enrichments. Finally, in order to facilitate the querying of the data, new geo-temporal mapping services are investigated. These services facilitate cross-collection studies in time and space and ease the scientific interpretation of the collection items in a broader sense. © 2018, Springer Nature Switzerland AG.
 |;
@@ -967,7 +1079,11 @@ Understanding the Nature of Metadata: Systematic Review	 | "Background: Metadata
  presented harmonized definitions and the new schema have the potential
  to improve the classification and generation of metadata by creating a
  shared understanding of metadata and its context."
+|Digital heritage collections , Geo-temporal mapping,
+Metadata enrichment , Microtask crowdsourcing , Named entity recognition,
+Rephotography
 |;
+
 Use of Metadata-Driven Approaches for Data Harmonization in the Medical Domain: Scoping Review |
 	"Background: Multisite clinical studies are increasingly using real
  -world data to gain real -world evidence. However, due to the
@@ -1009,7 +1125,9 @@ Use of Metadata-Driven Approaches for Data Harmonization in the Medical Domain: 
  this study and to determine the most appropriate MDD approaches and the
  way to integrate them into the ETL/ELT process. This could verify the
  ability of using MDD approaches to generalize the ETL process for
- harmonizing medical data." |;
+ harmonizing medical data."|
+ ETL, ELT, Extract-Load-Transform, Extract-Transform-Load, interoperability, metadata-driven, medical domain, data
+harmonization |;
 
 WITH: Human-Computer Collaboration for Data Annotation and Enrichment	|
 "The transformation that has been accomplished in Cultural Heritage (CH)
@@ -1031,7 +1149,9 @@ WITH: Human-Computer Collaboration for Data Annotation and Enrichment	|
  gamification elements, WITH combines the intelligence of humans and
  computers to improve the quality of digital cultural content and its
  presentation, establishing new ways of collaboration between cultural
-organizations and their audiences." |;
+organizations and their audiences."|
+cultural heritage, metadata, annotation, metadata enrichment, humancomputer
+collaboration, crowdsourcing |;
 
 Methods for Standardizing Metadata at
 Pusdatinrenbang Bappenas |
@@ -1048,7 +1168,9 @@ Validation through questionnaires confirmed that the method meets user expectati
 to other metadata domains with similar structural issues. The key contributions of this study include the
 adaptation of the MAFRA framework for government metadata, the development of a structured metadata
 standardization process, and the establishment of a scalable model for future metadata integration between
-institutions with overlapping functions. |;
+institutions with overlapping functions.|
+Metadata standards, metadata integration, data interoperability, lifting and normalization,
+metadata mapping. |;
 
 Lessons Learned From European Health Data Projects With
 Cancer Use Cases: Implementation of Health Standards and
@@ -1081,7 +1203,9 @@ foundation for a common EHDS2 interoperability framework. Additionally, standard
 development of ISO/IEC 21823-3:2021—Semantic Interoperability for IoT Systems. Since no ISO standard currently exists for
 digital pathology and AI-based image analysis for medical diagnostics, the BigPicture project is contributing to ISO/PWI 24051-2,
 which focuses on digital pathology and AI-based, whole-slide image analysis. Integrating these efforts with ongoing ISO initiatives
-can enhance global standardization and facilitate widespread adoption across health care systems. |;
+can enhance global standardization and facilitate widespread adoption across health care systems.|
+artificial intelligence, cancer, European Health Data Space, health care standards, interoperability, AI, health data, cancer use
+cases, IoT, Internet of Things, primary data, diagnosis, prognosis, decision-making |;
 
 Metadata-Driven Approach to
 Generalisation of Transformations in ETL
@@ -1101,7 +1225,9 @@ implementation, so that use case specific content is outsourced within the MDR.
 Discussion: A rule-based approach of the MDD ETL implementation allows a
 generalization of the extract and load phase, however the transformation process
 has to be standardized further. Moreover, a user-friendly interface is essential for
-integrating expertise without technical skills. |;
+integrating expertise without technical skills.|
+ETL process, metadata, MDR, secondary use, Metadata-driven
+approach, Data Integration, OMOP CDM, rule-based approach |;
 
 An LLM-based Approach for Translating Keywords in
 Scientific Publications |
@@ -1116,7 +1242,9 @@ with a commercial Large Language Model like ChatGPT. At the same time, our resea
 challenges of reconciling free-form keywords, since the results can vary depending on the quality of the
 original metadata. While initially designed for the GoTriple discovery platform, this approach, along with
 its open-source example implementation, can be generalized to all situations where it is necessary to
-extract multilingual knowledge from text-based keywords. |;
+extract multilingual knowledge from text-based keywords.|
+Metadata Enrichment, Text Processing, Multilingualism, Large Language Models, ChatGPT, Social
+Sciences and Humanities |;
 
 Implementing interoperability - Metadata
 Schema and Crosswalk Registry approach to
@@ -1137,7 +1265,7 @@ other domains, such as the exchange of educational information is straightforwar
 institutions (HEIs) could use the MSCR to not only better communicate the already existing work
 towards interoperability such as mapping documentation between standards for exchanging learning
 and research-related information, but also to enhance the concrete data integration infrastructure
-through the use of MSCR-managed schemas and crosswalks. |;
+through the use of MSCR-managed schemas and crosswalks.| |;
 
 Integration patterns in the use of metadata for data sensemaking
 during relevance evaluation: An interpretable deep
@@ -1162,7 +1290,7 @@ and connecting systematic or heuristic cues, while across-category
 integration necessitates considerable effort to integrate cues from both categories.
 To support these integrative tasks, this study proposes strategies for mitigating
 these challenges by optimizing metadata layouts and developing
-intelligent data retrieval systems. |;
+intelligent data retrieval systems.| |;
 
 Metadata application profile as a mechanism for semantic interoperability
 in FAIR and open data publishing |
@@ -1183,7 +1311,16 @@ human-readable documentation, machine-actionable forms, and even data validation
 extension to YAMA is proposed to ensure the semantic interoperability of open data, bridging non-RDF data
 structures to RDF, thus enabling the publication of 5-star open data. This ensures smooth dataset integration and
 the creation of linkable, semantically rich open datasets. The work emphasizes the pivotal role of application
-profiles in fortifying the semantic interoperability of (meta)data, thereby elevating dataset openness. |;
+profiles in fortifying the semantic interoperability of (meta)data, thereby elevating dataset openness.|
+Application profiles,
+Semantic interoperability,
+Data Interoperability,
+Open data,
+FAIR data,
+Linking data,
+Semantic validation,
+Linked Open Data,
+RDF |;
 
 Weaving the Threads of Bibliographic Ontologies
 Application of a Reference Ontology to Advance Semantic
@@ -1201,7 +1338,7 @@ The potential of the RO for solving such problem examples is demonstrated by mak
 Schema/Web Ontology Language (RDFS/OWL) semantic reasoning and inference mechanisms, combined with Shapes Constraint Language (SHACL), 
 when restrictions are needed to impose data constraints and validation. The RO innovation consists in the formulation of an independent
  high-level ontology, through which the elements of different source-ontologies are interlinked without being modified or replaced, 
-but rather preserved, and in using semantic mechanisms to generate additional elements needed to consistently describe the relationship between them. |;
+but rather preserved, and in using semantic mechanisms to generate additional elements needed to consistently describe the relationship between them.| |;
 
 Integrative Ontology of Bipolar Disorder
 (OBD): Advancing Bipolar Disorder
@@ -1224,7 +1361,9 @@ and clinical symptoms of BD, aimed towards facilitating improved
 accuracy in diagnoses and personalized treatment plans. The OBD supports
 data FAIRness (e.g., findability, accessibility, interoperability, and
 reusability)and encourages collaborative and multidisciplinary studies of
-BD using diverse domains and ontologies. |;
+BD using diverse domains and ontologies.|
+Bipolar disorder , Ontology , Data Integration , FAIR ,
+Ontology of bipolar disorder |;
 
 Large-Scale Integration of DICOM Metadata into
 HL7-FHIR for Medical Research |
@@ -1252,7 +1391,15 @@ over 150,000 DICOM studies within an operational period of 26 days. Data analysi
 revealed significant heterogeneity and incompleteness in certain attributes, particularly
 the DICOM tag “Body Part Examined.” Despite these challenges, the pipeline
 successfully generated valid and standardized FHIR, providing a robust basis for future
-research. |;
+research.|
+radiology information
+system,
+ health information
+interoperability,
+ medical informatics
+applications,
+ radiology department,
+ hospital |;
 
 Metadata-Driven Cross-Infrastructure Integration Between Solid Earth and Marine Sciences in the GEO-INQUIRE Project |
 This paper describes the integration of cross-disciplinary data from Solid Earth and Marine sciences through a 
@@ -1261,7 +1408,8 @@ in managing and providing open access to scientific data, addressing chal-lenges
 multidisciplinary data access. It also highlights the implementation of Virtual Access and Physical or TransNational 
 Access in line with European Union regulations. Additionally, it discusses the successful implementation of a proof of 
 concept between EPOS and EMSO RIs, showcasing the potential of cross-infrastructure metadata-driven integration for 
-supporting comprehensive and multidisciplinary research. |;
+supporting comprehensive and multidisciplinary research.|
+Metadata,  EPOS-DCAT-AP,  Research Infrastructure,  Geo-INQUIRE, Interoperability |;
 
 Reference framework for metadata description
 to commensurate data in grain production |
@@ -1271,4 +1419,5 @@ will bring service providers that help farmers to translate farm born datasets t
 Data products can then be published to the data space catalog, allowing other people to discover and consume them. Data used for
  data products, decision- making, reporting, or analysis should be reliable and trust- worthy. Common metadata standards, 
 catalogs and ontolo- gies will help to achieve this goal. The scope of this paper is to discuss requirements for metadata 
-in grain production. |;
+in grain production. |
+Agriculture ,Smart farming, Grain production, Data, Metadata ,Data space|;
