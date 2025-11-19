@@ -15,7 +15,7 @@ https://parsif.al/
 
 The datafile ClassificationByDomain.txt can be used to match keywords with articles_bytitle_and_abstract_and_Keywords_separatedbypipes.txt and categorize domain context.  
 
-The datafile utilized for Strategies, Methods and Tecnhiques by domain was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and the code is SMT-by-domain.py and can be executed here: [SMT-by-domain.py](https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing )
+The datafile utilized for frequency figure of Strategies, Methods and Tecnhiques by domain was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and the code is SMT-by-domain.py. It can be executed here: [SMT-by-domain.py](https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing )
 
 
 # Quality assessment rules 
