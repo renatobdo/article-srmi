@@ -166,7 +166,10 @@ for cat in sorted_cats:
 plt.xlabel("Year")
 plt.ylabel("Number of Articles")
 plt.title("Annual Distribution by Category (with Abbreviations in Bars)")
+plt.yticks(range(0, int(max(bottom)) + 1, 1))
+plt.grid(True, axis='y', linestyle='--', alpha=0.35)
 plt.xticks(years_all, rotation=45)
 plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left", title="Category")
+
 plt.tight_layout()
 plt.show()
