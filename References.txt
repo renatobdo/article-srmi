@@ -668,7 +668,7 @@ Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik},
    volume = {2},
    year = {2020}
 }
-@inproceedings{dodois2015,
+@inproceedings{Dodois2015,
    abstract = {A large number of statistical data sets have been published on the web by various organizations in recent years. The resulting abundance creates opportunities for new analyses and insights, but that frequently requires integrating data from multiple sources. Inconsistent formats, access methods, units, and scales hinder data integration and make it a tedious or infeasible task. Standards such as the W3C RDF data cube vocabulary and the content-oriented guidelines of SDMX provide a foundation to tackle these challenges. In this paper, we introduce a framework that semi-automatically performs semantic data integration on statistical raw data sources at query time. We follow existing standards to transform non-semantic data structures to RDF format. Furthermore, we describe each data set with semantic metadata to deal with inconsistent use of terminologies. This metadata provides the foundation for cross-dataset querying through a mediator that rewrites queries appropriately for each source and returns consolidated results.},
    author = {Ba-Lam Do and Peb Ruswono Aryan and Tuan-Dat Trinh and Peter Wetz and Elmar Kiesling and A Min Tjoa},
    editor = {Capadisli S. and Kalampokis E. and Cotton F. and Troncy R. and Haller A. and Scannapieco M.},
@@ -729,7 +729,7 @@ Publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik},
    title = {Towards a project centric metadata model and lifecycle for ontology mapping governance},
    year = {2015}
 }
-@inproceedings{Kim22015,
+@inproceedings{kimdois2015,
    author = {Sunhyuck Kim and Jaeyeon Ahn and Juhee Suh and Hayun Kim and Jungwha Kim},
    note = {https://doi.org/10.1109/DigitalHeritage.2015.7419508},
    isbn = {978-1-5090-0254-2},
@@ -1000,4 +1000,10 @@ abstract = {The access to heterogeneous data through their metadata needs a matc
    volume = {3},
    year = {2016}
 }
-
+@misc{SRMIRepo,
+  author = {Oliveira, Renato},
+  title  = {Supplementary Materials for "Metadata integration: A systematic review on methods, challenges and applications"},
+  year   = {2025},
+  url    = {https://github.com/renatobdo/article-srmi.git},
+  note   = {Accessed: Nov. 2025}
+}
