@@ -17,7 +17,7 @@ The datafile ClassificationByDomain.txt can be used to match keywords with artic
 
 The datafile utilized for frequency figure of Strategies, Methods and Tecnhiques by domain was FrequencyOf-StrategiesMethodsTechniques-By-Domain.txt and the code is SMT-by-domain.py. It can be executed here: [SMT-by-domain.py](https://colab.research.google.com/drive/14_yxdznEmBfWSZlacLPrH2acGV8eqcNb?usp=sharing )
 
-Trends graph can be visualized here: https://colab.research.google.com/drive/1g4CO__mVeFc8CY0DTlVGdNEJYz5-xKem?usp=sharing 
+Trends graph can be visualized here: https://colab.research.google.com/drive/1g4CO__mVeFc8CY0DTlVGdNEJYz5-xKem?usp=sharing
 
 
 # Quality assessment rules 
