@@ -18,8 +18,7 @@ raw_data = [
     ("Graph-Oriented Models", r"\cite{Bunakov2019, Lisena2017, Ma2017}"),
 ]
 
-# --- 2. PROCESSAMENTO DOS DADOS ---
-
+# --- 2. PROCcessing data ---
 expanded_data = []
 year_regex = re.compile(r"(\d{4})$")
 
@@ -40,8 +39,7 @@ for category, citations_str in raw_data:
 df = pd.DataFrame(expanded_data)
 trend_df = df.groupby(['Category', 'Year']).size().reset_index(name='Article Count')
 
-# --- 3. DEFININDO ANOS E LIMITE DO EIXO Y (ACUMULADO) ---
-
+# --- 3. DEFINing years and limit y axix ---
 categories = trend_df['Category'].unique()
 num_categories = len(categories)
 
@@ -50,12 +48,10 @@ min_year = min(all_years)
 max_year = max(all_years)
 year_range = np.arange(min_year, max_year + 1, 1, dtype=int)
 
-# Máximo acumulado por categoria (para definir limite do eixo Y)
 max_total_per_category = trend_df.groupby('Category')['Article Count'].sum().max()
-y_limit = max_total_per_category + 1  # folga visual
+y_limit = max_total_per_category + 1
 
-# --- 4. LAYOUT DOS SUBPLOTS ---
-
+# --- 4. LAYOUT of SUBPLOTS ---
 n_cols = 5
 n_rows = (num_categories + n_cols - 1) // n_cols
 
@@ -68,22 +64,17 @@ fig, axes = plt.subplots(
 )
 axes = axes.flatten()
 
-# --- 5. LOOP POR CATEGORIA (SÉRIE ACUMULADA) ---
-
+# --- 5. LOOP by category ---
 for i, category in enumerate(categories):
     ax = axes[i]
     category_data = trend_df[trend_df['Category'] == category]
 
-    # Série com contagem por ano (inclui zeros)
     full_series = pd.Series(0, index=year_range)
     for year, count in zip(category_data['Year'], category_data['Article Count']):
-        if year in year_range:
-            full_series[year] = count
+        full_series[year] = count
 
-    # Série acumulada
     cumulative_series = full_series.cumsum()
 
-    # Plot da série acumulada
     cumulative_series.plot(
         kind='line',
         ax=ax,
@@ -91,27 +82,22 @@ for i, category in enumerate(categories):
         label='_nolegend_'
     )
 
-    # --- TICKS NO EIXO X ---
+    # --- TICKS beginning with odd years ---
+    first_odd = year_range[0] if year_range[0] % 2 == 1 else year_range[0] + 1
+    major_ticks = list(range(first_odd, year_range[-1] + 1, 2))
 
-    # major ticks: de 2 em 2 anos (2014, 2016, 2018, ...), garantindo o último ano
-    major_ticks = list(year_range[::2])
     if year_range[-1] not in major_ticks:
         major_ticks.append(year_range[-1])
 
-    ax.set_xticks(major_ticks)                  # major ticks com rótulo
-    ax.set_xticks(year_range, minor=True)       # minor ticks em TODOS os anos
+    ax.set_xticks(major_ticks)
+    ax.set_xticks(year_range, minor=True)
 
-    # estilo dos ticks
     ax.tick_params(axis='x', which='major', length=6, width=1)
     ax.tick_params(axis='x', which='minor', length=3, width=0.8)
 
-    # rótulos só nos major ticks
     ax.set_xticklabels([str(t) for t in major_ticks], rotation=45, ha='right')
-
-    # limites do eixo X exatamente nos anos extremos
     ax.set_xlim(year_range[0], year_range[-1])
 
-    # Formatação do subplot
     ax.set_title(category, fontsize=11, fontweight='bold')
     ax.grid(True, linestyle='--', alpha=0.5)
     ax.set_ylim(0, y_limit)
@@ -119,19 +105,14 @@ for i, category in enumerate(categories):
     ax.set_xlabel('')
     ax.set_ylabel('')
 
-# Esconde subplots vazios (se existirem)
+# remove empty subplots 
 for i in range(num_categories, n_rows * n_cols):
     fig.delaxes(axes[i])
 
-# --- 6. LEGENDA GLOBAL ---
-
+# --- 6. GLOBAL label ---
 legend_elements = [
-    Line2D(
-        [0], [0],
-        color='#1f77b4',
-        marker='o',
-        label='Cumulative number of articles'
-    )
+    Line2D([0], [0], color='#1f77b4', marker='o',
+           label='Cumulative number of articles')
 ]
 
 fig.legend(
@@ -142,15 +123,15 @@ fig.legend(
     bbox_to_anchor=(0.5, 0.98)
 )
 
-# --- 7. RÓTULOS GLOBAIS DOS EIXOS ---
-
+# --- 7. GLOBAL labels ---
 fig.supxlabel('Year', fontsize=14, y=0.01)
 fig.supylabel('Cumulative number of articles', fontsize=14, x=0.01)
 
-# --- 8. AJUSTES FINAIS ---
-
+# --- 8. Final adjustments ---
 plt.tight_layout()
 plt.subplots_adjust(top=0.90, bottom=0.15, left=0.06)
 
+plt.savefig('trends_cumulative_ticks_odd_years.png', dpi=300, bbox_inches='tight')
+plt.show()
 plt.savefig('trends_cumulative_ticks_ok.png', dpi=300, bbox_inches='tight')
 plt.show()
