@@ -24,6 +24,8 @@
    note = {https://doi.org/10.1007/978-3-319-13674-5\_23},
    pages = {238-249},
    title = {A Framework for the Evaluation of Automatic Metadata Enrichments},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2014}
 }
 @article{Candela2019,
@@ -113,6 +115,8 @@
    note = {https://doi.org/10.1007/978-3-030-67670-4\_12},
    pages = {187-203},
    title = {Automated Integration of Genomic Metadata with Sequence-to-Sequence Models},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2021}
 }
 @inbook{Sawarkar2021,
@@ -120,6 +124,8 @@
    note = {https://doi.org/10.1007/978-3-030-80126-7\_10},
    pages = {129-138},
    title = {Automated Metadata Harmonization Using Entity Resolution and Contextual Embedding},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2021}
 }
 @article{Boldrini2024,
@@ -173,6 +179,7 @@
    month = {6},
    title = {Context Is Everything: Harmonization of Critical Food Microbiology Descriptors and Metadata for Improved Food Safety and Surveillance},
    volume = {8},
+    pages = {1--11},
    year = {2017}
 }
 @article{Cavallo2019,
@@ -237,6 +244,8 @@
    note = {https://doi.org/10.1007/978-3-031-09917-5\_11},
    pages = {162-176},
    title = {FAIRification of Citizen Science Data Through Metadata-Driven Web API Development},
+    publisher = {Springer International Publishing},
+    address   = {Cham, Switzerland},
    year = {2022}
 }
 @article{Lafia2018,
@@ -267,6 +276,8 @@
    note = {https://doi.org/10.1007/978-3-031-39141-5\_20},
    pages = {235-247},
    title = {Integrated Access to Multidisciplinary Data Through Semantically Interoperable Services in a Metadata-Driven Platform for Solid Earth Science},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2023}
 }
 @article{Nicholson2020,
@@ -361,6 +372,7 @@
    publisher = {Dublin Core Metadata Initiative},
    title = {Metadata Integration for an Archaeology Collection Architecture},
    url = {https://doi.org/10.23106/DCMI.952136410},
+   pages = {1--11},
    year = {2014}
 }
 @article{Buranarach2022,
@@ -381,6 +393,8 @@
    note = {https://doi.org/10.1007/978-3-030-36599-8\_41},
    pages = {441-448},
    title = {Metadata Integration with Labeled-Property Graphs},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2019}
 }
 @inbook{Kirsten2017,
@@ -389,7 +403,8 @@
    note = {https://dl.gi.de/server/api/core/bitstreams/0e2acdb0-0858-479d-afbc-3c8b023b802a/content},
    booktitle = {Datenbanksysteme für Business, Technologie und Web (BTW 2017)},
    pages = {175-194},
-   publisher = {Gesellschaft für Informatik, Bonn},
+   publisher = {Gesellschaft für Informatik},
+   address   = {Bonn, Germany},
    title = {Metadata Management for Data Integration in Medical Sciences},
    year = {2017}
 }
@@ -398,6 +413,8 @@
    note = {https://doi.org/10.1007/978-3-319-99987-6\_21},
    pages = {271-282},
    title = {Metadata Reconciliation for Improved Data Binding and Integration},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2018}
 }
 @inproceedings{Kim2015,
@@ -508,14 +525,23 @@
    volume = {21},
    year = {2021}
 }
-@misc{Gil2023,
-   abstract = {Controlled vocabularies play a crucial role in indexing and retrieving content in audiovisual archives. The integration of SKOS and ontologies can enhance search processes and metadata generation. This work demonstrates how to integrate SKOS within the ARCA system, used by RTVE for audiovisual management. The proposal focuses on adapting the relational schema structure of ARCA to unify the thesauri using the SKOS model. The process involves identifying concepts, labels, semantic relationships, and collections to create a single controlled vocabulary from the different thesauri, represented through a relational database schema. The results of the unified thesauri and the mapping of vocabulary concepts to Wikidata items are shown to reinforce integration in the realm of Linked Data.},
-   author = {Virginia Bazán Gil and Juan Antonio Pastor Sánchez},
-   note = {https://doi.org/http://dx.doi.org/10.2423/i22394303v13n2p171},
-   title = {Proposal for the standardization of controlled vocabularies for television archives: case study at RTVE},
-   url = {http://hdl.handle.net/10201/141710},
-   year = {2023}
+
+@article{Gil2023,
+  author  = {Virginia Baz{\'a}n Gil and Juan Antonio Pastor S{\'a}nchez},
+  title   = {Proposal for the Standardization of Controlled Vocabularies for Television Archives: Case Study at RTVE},
+  journal = {Scientific Research and Information Technology (SCIRES-IT)},
+  volume  = {13},
+  number  = {2},
+  pages   = {171--189},
+  year    = {2023},
+  publisher = {CASPUR-CIBER Publishing},
+  address   = {Rome, Italy},
+  issn    = {2239-4303},
+  doi     = {10.2423/i22394303v13n2p171},
+  url     = {https://doi.org/10.2423/i22394303v13n2p171}
 }
+
+
 @inproceedings{Cheung2015,
    author = {Chung Ming Cheung and Palash Goyal and Greg Harris and Om Patri and Ajitesh Srivastava and Yinuo Zhang and Anand Panangadan and Charalampos Chelmis and Randall McKee and Mo Theron and Tamas Nemeth and Viktor K. Prasanna},
    note = {https://doi.org/10.2118/174907-MS},
@@ -523,6 +549,7 @@
    month = {9},
    publisher = {SPE},
    title = {Rapid Data Integration and Analysis for Upstream Oil and Gas Applications},
+   pages = {1--18},
    year = {2015}
 }
 @inproceedings{McCrae2015,
@@ -553,6 +580,8 @@
    note = {https://doi.org/10.1007/978-981-10-6893-5\_11},
    pages = {144-154},
    title = {Research on Information Organizations and Intelligent Retrievals for Digital Library Based on Ontology and Semantic Web},
+   publisher = {Springer},
+   address   = {Singapore},
    year = {2017}
 }
 @article{Kobayashi2018,
@@ -639,6 +668,8 @@
    note = {https://doi.org/10.1007/978-3-319-13674-5\_27},
    pages = {286-300},
    title = {The Europeana Network of Ancient Greek and Latin Epigraphy Data Infrastructure},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2014}
 }
 
@@ -650,6 +681,7 @@
    month = {1},
    title = {The GAAIN Entity Mapper: An Active-Learning System for Medical Data Mapping},
    volume = {9},
+   pages   = {1--10},
    year = {2016}
 }
 @article{Rashid2020,
@@ -666,7 +698,6 @@
    year = {2020}
 }
 @inproceedings{Dodois2015,
-   abstract = {A large number of statistical data sets have been published on the web by various organizations in recent years. The resulting abundance creates opportunities for new analyses and insights, but that frequently requires integrating data from multiple sources. Inconsistent formats, access methods, units, and scales hinder data integration and make it a tedious or infeasible task. Standards such as the W3C RDF data cube vocabulary and the content-oriented guidelines of SDMX provide a foundation to tackle these challenges. In this paper, we introduce a framework that semi-automatically performs semantic data integration on statistical raw data sources at query time. We follow existing standards to transform non-semantic data structures to RDF format. Furthermore, we describe each data set with semantic metadata to deal with inconsistent use of terminologies. This metadata provides the foundation for cross-dataset querying through a mediator that rewrites queries appropriately for each source and returns consolidated results.},
    author = {Ba-Lam Do and Peb Ruswono Aryan and Tuan-Dat Trinh and Peter Wetz and Elmar Kiesling and A Min Tjoa},
    editor = {Capadisli S. and Kalampokis E. and Cotton F. and Troncy R. and Haller A. and Scannapieco M.},
    booktitle = {CEUR Workshop Proceedings},
@@ -676,6 +707,7 @@
    title = {Toward a framework for statistical data integration},
    volume = {1551},
    url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964523740&partnerID=40&md5=ca1134c0f6edf716ae5ba608fdbef35d},
+   pages = {1--12}, 
    year = {2015}
 }
 @inproceedings{Do2015,
@@ -778,6 +810,8 @@
    note = {https://doi.org/10.1007/978-3-030-01762-0\_10},
    pages = {113-124},
    title = {UGESCO - A Hybrid Platform for Geo-Temporal Enrichment of Digital Photo Collections Based on Computational and Crowdsourced Metadata Generation},
+   publisher = {Springer International Publishing},
+   address   = {Cham, Switzerland},
    year = {2018}
 }
 @article{Ulrich2022,
@@ -843,6 +877,7 @@ and Enrichment},
    note = {https://ceur-ws.org/Vol-3990/short16.pdf},
    booktitle = {14th International Conference on “Multilingual digital terminology today. Design, representation formats and management systems” (MDTT) 2025, June 19-20, 2025, Thessaloniki, Greece},
    title = {An LLM-based Approach for Translating Keywords in Scientific Publications},
+   pages = {1--5},
    year = {2025}
 }
 @inproceedings{Tian2025,
@@ -898,8 +933,7 @@ and Enrichment},
    volume = {76},
    year = {2025}
 }
-@article{Patrcio2025,
-   abstract = {<p>Bibliographic ontologies are crucial to make the most of networked library metadata, but they show interoperability limitations in the Semantic Web. Following a research study on the subject, this paper presents a possible solution to such limitations by means of a reference ontology (RO) intended to allow integration of different ontologies without imposing a common central one and to overcome limitations of mapping techniques, such as crosswalks and application profiles, most used in interconnecting bibliographic ontologies. Interoperability issues of Resource Description and Access (RDA) and Bibliographic Framework Initiative—BIBFRAME (BF) ontologies are addressed using real-world examples from the Library of Congress (LoC) and Biblioteca Nacional de España (BNE) datasets. For a proof of concept of the RO, this paper is focused on two specific interoperability problems that are not solvable with the usual data transformative techniques: misalignments concerning the definition and representation of Work and Expression classes; and the absence of formalization of properties essential to whole-part relationships, namely transitivity, nonreflexivity and asymmetry. The potential of the RO for solving such problem examples is demonstrated by making in-depth use of Resource Description Framework Schema/Web Ontology Language (RDFS/OWL) semantic reasoning and inference mechanisms, combined with Shapes Constraint Language (SHACL), when restrictions are needed to impose data constraints and validation. The RO innovation consists in the formulation of an independent high-level ontology, through which the elements of different source-ontologies are interlinked without being modified or replaced, but rather preserved, and in using semantic mechanisms to generate additional elements needed to consistently describe the relationship between them.</p>},
+@article{Patrcio2025,   
    author = {Helena Patrício and Pedro Nogueira Ramos and Maria Inês Cordeiro},
    note = {https://doi.org/10.5860/ital.v44i2.17289},
    issn = {2163-5226},
@@ -908,6 +942,7 @@ and Enrichment},
    month = {6},
    title = {Weaving the Threads of Bibliographic Ontologies},
    volume = {44},
+   pages = {1--35},
    year = {2025}
 }
 @article{Thalhath2025,
